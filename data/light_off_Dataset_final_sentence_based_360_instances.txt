@@ -1,0 +1,1080 @@
+ can you unplug lights in the hall off
+ out out action_off intent_light out out loc action_off
+
+ could you please turn out the kitchen light
+ out out out action_off action_off out loc intent_light
+
+ could you cut bedroom light off
+ out out action_off loc intent_light action_off
+
+ please can you turn off light in bedroom
+ out out out action_off action_off intent_light out loc
+
+ kill lights of bedroom
+ action_off intent_light out loc
+
+ heyy can you please douse out the kitchen light
+ out out out out action_off action_off out loc intent_light
+
+ put light in bedroom down
+ action_off intent_light out loc action_off
+
+ douse down the light of kitchen
+ action_off action_off out intent_light out loc
+
+ would you please extinguish light in bedroom down
+ out out out action_off intent_light out loc action_off
+
+ would you unplug the kitchen light
+ out out action_off out loc intent_light
+
+ can you shut kitchen light
+ out out action_off loc intent_light
+
+ can you turn light in bedroom down
+ out out action_off intent_light out loc action_off
+
+ extinguish out the hall light
+ action_off action_off out loc intent_light
+
+ what's would you put off light of the kitchen
+ out out out action_off action_off intent_light out out loc
+
+ hii switch off the light in bedroom
+ out action_off action_off out intent_light out loc
+
+ hi please can you extinguish the lights in the kitchen off
+ out out out out action_off out intent_light out out loc action_off
+
+ shut the light of kitchen
+ action_off out intent_light out loc
+
+ put the kitchen light down
+ action_off out loc intent_light action_off
+
+ sup switch out bedroom light
+ out action_off action_off loc intent_light
+
+ please would you turn lights of bedroom out
+ out out out action_off intent_light out loc action_off
+
+ please douse off light in bedroom
+ out action_off action_off intent_light out loc
+
+ hi put light in bedroom down
+ out action_off intent_light out loc action_off
+
+ hi would you please turn out the kitchen light
+ out out out out action_off action_off out loc intent_light
+
+ please would you put out the lights of the bedroom
+ out out out action_off action_off out intent_light out out loc
+
+ can you turn the lights in the kitchen off
+ out out action_off out intent_light out out loc action_off
+
+ please would you switch out kitchen light
+ out out out action_off action_off loc intent_light
+
+ could you please extinguish bedroom light off
+ out out out action_off loc intent_light action_off
+
+ hey extinguish the lights of the bedroom
+ out action_off out intent_light out out loc
+
+ extinguish out bedroom light
+ action_off action_off loc intent_light
+
+ could you please douse the light in bedroom out
+ out out out action_off out intent_light out loc action_off
+
+ turn the lights of the bedroom out
+ action_off out intent_light out out loc action_off
+
+ can you please turn off lights in the hall
+ out out out action_off action_off intent_light out out loc
+
+ hii douse the kitchen light
+ out action_off out loc intent_light
+
+ hey put off lights of bedroom
+ out action_off action_off intent_light out loc
+
+ turn out the kitchen light
+ action_off action_off out loc intent_light
+
+ hello please can you close the lights in the kitchen
+ out out out out action_off out intent_light out out loc
+
+ would you shut the light of kitchen down
+ out out action_off out intent_light out loc action_off
+
+ hawai please could you douse lights of bedroom out
+ out out out out action_off intent_light out loc action_off
+
+ hii switch off light in bedroom
+ out action_off action_off intent_light out loc
+
+ would you put lights in the hall off
+ out out action_off intent_light out out loc action_off
+
+ please would you switch off lights of bedroom
+ out out out action_off action_off intent_light out loc
+
+ please switch the lights of the bedroom out
+ out action_off out intent_light out out loc action_off
+
+ put kitchen light off
+ action_off loc intent_light action_off
+
+ extinguish out kitchen light
+ action_off action_off loc intent_light
+
+ heyy put lights in the hall off
+ out action_off intent_light out out loc action_off
+
+ heyy extinguish kitchen light off
+ out action_off loc intent_light action_off
+
+ please can you douse the kitchen light
+ out out out action_off out loc intent_light
+
+ please would you switch down the lights in the kitchen
+ out out out action_off action_off out intent_light out out loc
+
+ douse the light of kitchen down
+ action_off out intent_light out loc action_off
+
+ heyy could you halt down the lights in the kitchen
+ out out out action_off action_off out intent_light out out loc
+
+ hey unplug bedroom light
+ out action_off loc intent_light
+
+ please would you unplug the kitchen light down
+ out out out action_off out loc intent_light action_off
+
+ howdy unplug out the lights of the bedroom
+ out action_off action_off out intent_light out out loc
+
+ hawai please could you douse out bedroom light
+ out out out out action_off action_off loc intent_light
+
+ heyy halt off light in bedroom
+ out action_off action_off intent_light out loc
+
+ douse lights of bedroom out
+ action_off intent_light out loc action_off
+
+ what's kill out the kitchen light
+ out action_off action_off out loc intent_light
+
+ could you extinguish lights of bedroom out
+ out out action_off intent_light out loc action_off
+
+ kill lights of bedroom
+ action_off intent_light out loc
+
+ unplug lights in the hall off
+ action_off intent_light out out loc action_off
+
+ can you douse the light of kitchen
+ out out action_off out intent_light out loc
+
+ please can you close light of the kitchen down
+ out out out action_off intent_light out out loc action_off
+
+ hi kill out the kitchen light
+ out action_off action_off out loc intent_light
+
+ extinguish light in bedroom down
+ action_off intent_light out loc action_off
+
+ shut kitchen light
+ action_off loc intent_light
+
+ what's would you halt the lights of the bedroom out
+ out out out action_off out intent_light out out loc action_off
+
+ halt the kitchen light down
+ action_off out loc intent_light action_off
+
+ close kitchen light off
+ action_off loc intent_light action_off
+
+ heyy please halt the kitchen light down
+ out out action_off out loc intent_light action_off
+
+ put down the light of kitchen
+ action_off action_off out intent_light out loc
+
+ hey please could you douse out bedroom light
+ out out out out action_off action_off loc intent_light
+
+ please could you put down the light of kitchen
+ out out out action_off action_off out intent_light out loc
+
+ douse down the lights in the kitchen
+ action_off action_off out intent_light out out loc
+
+ sup please can you kill out the kitchen light
+ out out out out action_off action_off out loc intent_light
+
+ hi turn out the kitchen light
+ out action_off action_off out loc intent_light
+
+ heyy would you shut the light of kitchen down
+ out out out action_off out intent_light out loc action_off
+
+ heyy switch the hall light out
+ out action_off out loc intent_light action_off
+
+ what's kill out the kitchen light
+ out action_off action_off out loc intent_light
+
+ halt off light in bedroom
+ action_off action_off intent_light out loc
+
+ douse light of the kitchen
+ action_off intent_light out out loc
+
+ douse out bedroom light
+ action_off action_off loc intent_light
+
+ hi put the kitchen light down
+ out action_off out loc intent_light action_off
+
+ can you halt off light in bedroom
+ out out action_off action_off intent_light out loc
+
+ switch the hall light out
+ action_off out loc intent_light action_off
+
+ please douse bedroom light
+ out action_off loc intent_light
+
+ shut the light of kitchen down
+ action_off out intent_light out loc action_off
+
+ sup would you please unplug the light in bedroom
+ out out out out action_off out intent_light out loc
+
+ douse off light in bedroom
+ action_off action_off intent_light out loc
+
+ turn out the lights of the bedroom
+ action_off action_off out intent_light out out loc
+
+ hii can you please shut off lights in the hall
+ out out out out action_off action_off intent_light out out loc
+
+ hi put down the lights in the kitchen
+ out action_off action_off out intent_light out out loc
+
+ could you please turn the hall light out
+ out out out action_off out loc intent_light action_off
+
+ please could you douse out bedroom light
+ out out out action_off action_off loc intent_light
+
+ please could you put off lights of bedroom
+ out out out action_off action_off intent_light out loc
+
+ what's douse down the light of kitchen
+ out action_off action_off out intent_light out loc
+
+ howdy please would you cut off light of the kitchen
+ out out out out action_off action_off intent_light out out loc
+
+ hii extinguish light in bedroom down
+ out action_off intent_light out loc action_off
+
+ put the light of kitchen down
+ action_off out intent_light out loc action_off
+
+ cut bedroom light off
+ action_off loc intent_light action_off
+
+ hi would you put out the hall light
+ out out out action_off action_off out loc intent_light
+
+ what's please could you douse lights of bedroom out
+ out out out out action_off intent_light out loc action_off
+
+ would you please cut the hall light
+ out out out action_off out loc intent_light
+
+ hey kill off the light in bedroom
+ out action_off action_off out intent_light out loc
+
+ turn off light in bedroom
+ action_off action_off intent_light out loc
+
+ put off lights of bedroom
+ action_off action_off intent_light out loc
+
+ howdy switch off the light in bedroom
+ out action_off action_off out intent_light out loc
+
+ could you put light in bedroom down
+ out out action_off intent_light out loc action_off
+
+ hawai close light of the kitchen down
+ out action_off intent_light out out loc action_off
+
+ douse the kitchen light
+ action_off out loc intent_light
+
+ can you switch bedroom light off
+ out out action_off loc intent_light action_off
+
+ switch off light in bedroom
+ action_off action_off intent_light out loc
+
+ can you please douse the light of kitchen down
+ out out out action_off out intent_light out loc action_off
+
+ could you switch the light in bedroom out
+ out out action_off out intent_light out loc action_off
+
+ douse the light of kitchen
+ action_off out intent_light out loc
+
+ kill off the light in bedroom
+ action_off action_off out intent_light out loc
+
+ turn kitchen light off
+ action_off loc intent_light action_off
+
+ would you put out the hall light
+ out out action_off action_off out loc intent_light
+
+ extinguish off light of the kitchen
+ action_off action_off intent_light out out loc
+
+ kill the hall light out
+ action_off out loc intent_light action_off
+
+ turn lights of bedroom out
+ action_off intent_light out loc action_off
+
+ halt out the hall light
+ action_off action_off out loc intent_light
+
+ close off lights in the hall
+ action_off action_off intent_light out out loc
+
+ what's switch bedroom light off
+ out action_off loc intent_light action_off
+
+ hello douse light of the kitchen
+ out action_off intent_light out out loc
+
+ switch the lights of the bedroom out
+ action_off out intent_light out out loc action_off
+
+ close the lights of the bedroom out
+ action_off out intent_light out out loc action_off
+
+ please would you put the light of kitchen down
+ out out out action_off out intent_light out loc action_off
+
+ could you shut the light of kitchen
+ out out action_off out intent_light out loc
+
+ turn the hall light out
+ action_off out loc intent_light action_off
+
+ heyy extinguish light in bedroom down
+ out action_off intent_light out loc action_off
+
+ heyy turn lights of bedroom out
+ out action_off intent_light out loc action_off
+
+ put down the light of kitchen
+ action_off action_off out intent_light out loc
+
+ put out the lights of the bedroom
+ action_off action_off out intent_light out out loc
+
+ hii turn the lights in the kitchen off
+ out action_off out intent_light out out loc action_off
+
+ put lights in the hall off
+ action_off intent_light out out loc action_off
+
+ douse the lights in the kitchen
+ action_off out intent_light out out loc
+
+ please can you cut the hall light out
+ out out out action_off out loc intent_light action_off
+
+ would you please turn out the kitchen light
+ out out out action_off action_off out loc intent_light
+
+ hi close the lights in the kitchen
+ out action_off out intent_light out out loc
+
+ can you douse light of the kitchen
+ out out action_off intent_light out out loc
+
+ douse the light in bedroom out
+ action_off out intent_light out loc action_off
+
+ howdy cut off lights of bedroom
+ out action_off action_off intent_light out loc
+
+ please can you extinguish the lights of the bedroom
+ out out out action_off out intent_light out out loc
+
+ sup could you please shut lights in the hall off
+ out out out out action_off intent_light out out loc action_off
+
+ please could you douse lights of bedroom out
+ out out out action_off intent_light out loc action_off
+
+ hii please would you unplug the kitchen light down
+ out out out out action_off out loc intent_light action_off
+
+ switch out bedroom light
+ action_off action_off loc intent_light
+
+ douse the hall light
+ action_off out loc intent_light
+
+ please can you close the lights in the kitchen
+ out out out action_off out intent_light out out loc
+
+ close the light in bedroom out
+ action_off out intent_light out loc action_off
+
+ would you please shut light in bedroom
+ out out out action_off intent_light out loc
+
+ switch light of the kitchen down
+ action_off intent_light out out loc action_off
+
+ put lights in the hall off
+ action_off intent_light out out loc action_off
+
+ close off lights of bedroom
+ action_off action_off intent_light out loc
+
+ could you halt out the hall light
+ out out action_off action_off out loc intent_light
+
+ hawai can you please douse out the kitchen light
+ out out out out action_off action_off out loc intent_light
+
+ what's please switch the lights of the bedroom out
+ out out action_off out intent_light out out loc action_off
+
+ please would you cut off light of the kitchen
+ out out out action_off action_off intent_light out out loc
+
+ please could you extinguish off light of the kitchen
+ out out out action_off action_off intent_light out out loc
+
+ can you please switch the hall light out
+ out out out action_off out loc intent_light action_off
+
+ could you kill lights in the hall
+ out out action_off intent_light out out loc
+
+ please switch out kitchen light
+ out action_off action_off loc intent_light
+
+ could you please shut lights in the hall off
+ out out out action_off intent_light out out loc action_off
+
+ please could you turn kitchen light off
+ out out out action_off loc intent_light action_off
+
+ kill lights in the hall
+ action_off intent_light out out loc
+
+ put off light of the kitchen
+ action_off action_off intent_light out out loc
+
+ can you please unplug the lights in the kitchen off
+ out out out action_off out intent_light out out loc action_off
+
+ hi please could you douse the lights in the kitchen
+ out out out out action_off out intent_light out out loc
+
+ could you please switch out bedroom light
+ out out out action_off action_off loc intent_light
+
+ hawai put off the light in bedroom
+ out action_off action_off out intent_light out loc
+
+ heyy can you switch light of the kitchen down
+ out out out action_off intent_light out out loc action_off
+
+ shut off lights in the hall
+ action_off action_off intent_light out out loc
+
+ what's could you kill off the light in bedroom
+ out out out action_off action_off out intent_light out loc
+
+ hii please would you turn the lights of the bedroom out
+ out out out out action_off out intent_light out out loc action_off
+
+ put the kitchen light down
+ action_off out loc intent_light action_off
+
+ howdy put the light of kitchen down
+ out action_off out intent_light out loc action_off
+
+ howdy please could you turn kitchen light off
+ out out out out action_off loc intent_light action_off
+
+ halt off the light in bedroom
+ action_off action_off out intent_light out loc
+
+ turn off lights in the hall
+ action_off action_off intent_light out out loc
+
+ heyy switch the light in bedroom out
+ out action_off out intent_light out loc action_off
+
+ unplug down the light of kitchen
+ action_off action_off out intent_light out loc
+
+ heyy switch the light in bedroom out
+ out action_off out intent_light out loc action_off
+
+ extinguish bedroom light off
+ action_off loc intent_light action_off
+
+ hawai switch the light in bedroom out
+ out action_off out intent_light out loc action_off
+
+ please could you douse the hall light
+ out out out action_off out loc intent_light
+
+ cut light in bedroom
+ action_off intent_light out loc
+
+ switch light of the kitchen down
+ action_off intent_light out out loc action_off
+
+ switch bedroom light off
+ action_off loc intent_light action_off
+
+ unplug out the lights of the bedroom
+ action_off action_off out intent_light out out loc
+
+ can you cut light in bedroom
+ out out action_off intent_light out loc
+
+ unplug out the lights of the bedroom
+ action_off action_off out intent_light out out loc
+
+ heyy can you please shut off lights in the hall
+ out out out out action_off action_off intent_light out out loc
+
+ put out the hall light
+ action_off action_off out loc intent_light
+
+ would you shut the lights of the bedroom
+ out out action_off out intent_light out out loc
+
+ switch off the light in bedroom
+ action_off action_off out intent_light out loc
+
+ can you cut off lights of bedroom
+ out out action_off action_off intent_light out loc
+
+ hi unplug down the light of kitchen
+ out action_off action_off out intent_light out loc
+
+ would you please unplug the light in bedroom
+ out out out action_off out intent_light out loc
+
+ can you switch light of the kitchen down
+ out out action_off intent_light out out loc action_off
+
+ howdy put the light of kitchen down
+ out action_off out intent_light out loc action_off
+
+ hii douse the light in bedroom out
+ out action_off out intent_light out loc action_off
+
+ turn out the kitchen light
+ action_off action_off out loc intent_light
+
+ switch out kitchen light
+ action_off action_off loc intent_light
+
+ can you extinguish out the hall light
+ out out action_off action_off out loc intent_light
+
+ sup unplug down the light of kitchen
+ out action_off action_off out intent_light out loc
+
+ howdy can you turn the lights in the kitchen off
+ out out out action_off out intent_light out out loc action_off
+
+ please could you douse the lights in the kitchen
+ out out out action_off out intent_light out out loc
+
+ please can you kill out the kitchen light
+ out out out action_off action_off out loc intent_light
+
+ howdy switch out kitchen light
+ out action_off action_off loc intent_light
+
+ hii cut the hall light
+ out action_off out loc intent_light
+
+ please put the kitchen light down
+ out action_off out loc intent_light action_off
+
+ cut the hall light out
+ action_off out loc intent_light action_off
+
+ what's unplug the light in bedroom
+ out action_off out intent_light out loc
+
+ please could you close off lights of bedroom
+ out out out action_off action_off intent_light out loc
+
+ sup unplug down the light of kitchen
+ out action_off action_off out intent_light out loc
+
+ douse lights in the hall
+ action_off intent_light out out loc
+
+ hii turn light in bedroom down
+ out action_off intent_light out loc action_off
+
+ hi can you shut kitchen light
+ out out out action_off loc intent_light
+
+ hey please could you put down the light of kitchen
+ out out out out action_off action_off out intent_light out loc
+
+ please would you close light of the kitchen down
+ out out out action_off intent_light out out loc action_off
+
+ would you put off light of the kitchen
+ out out action_off action_off intent_light out out loc
+
+ could you turn lights of bedroom out
+ out out action_off intent_light out loc action_off
+
+ turn bedroom light off
+ action_off loc intent_light action_off
+
+ switch down the lights in the kitchen
+ action_off action_off out intent_light out out loc
+
+ hi could you please turn the hall light out
+ out out out out action_off out loc intent_light action_off
+
+ hii turn bedroom light off
+ out action_off loc intent_light action_off
+
+ heyy switch the hall light out
+ out action_off out loc intent_light action_off
+
+ hawai shut light in bedroom
+ out action_off intent_light out loc
+
+ extinguish kitchen light off
+ action_off loc intent_light action_off
+
+ hii please can you douse the kitchen light
+ out out out out action_off out loc intent_light
+
+ could you please switch off the light in bedroom
+ out out out action_off action_off out intent_light out loc
+
+ would you please turn out the lights of the bedroom
+ out out out action_off action_off out intent_light out out loc
+
+ switch the light in bedroom out
+ action_off out intent_light out loc action_off
+
+ please can you unplug bedroom light
+ out out out action_off loc intent_light
+
+ shut lights in the hall off
+ action_off intent_light out out loc action_off
+
+ extinguish the lights in the kitchen off
+ action_off out intent_light out out loc action_off
+
+ shut out kitchen light
+ action_off action_off loc intent_light
+
+ please halt the kitchen light down
+ out action_off out loc intent_light action_off
+
+ can you turn the lights in the kitchen off
+ out out action_off out intent_light out out loc action_off
+
+ can you please unplug out the lights of the bedroom
+ out out out action_off action_off out intent_light out out loc
+
+ could you turn bedroom light off
+ out out action_off loc intent_light action_off
+
+ cut off light of the kitchen
+ action_off action_off intent_light out out loc
+
+ close light of the kitchen down
+ action_off intent_light out out loc action_off
+
+ switch out bedroom light
+ action_off action_off loc intent_light
+
+ hey extinguish the light in bedroom
+ out action_off out intent_light out loc
+
+ unplug the kitchen light down
+ action_off out loc intent_light action_off
+
+ unplug the lights in the kitchen off
+ action_off out intent_light out out loc action_off
+
+ please kill lights of bedroom
+ out action_off intent_light out loc
+
+ please could you put kitchen light off
+ out out out action_off loc intent_light action_off
+
+ turn the lights in the kitchen off
+ action_off out intent_light out out loc action_off
+
+ please could you douse down the lights in the kitchen
+ out out out action_off action_off out intent_light out out loc
+
+ sup would you put lights in the hall off
+ out out out action_off intent_light out out loc action_off
+
+ would you please douse lights in the hall
+ out out out action_off intent_light out out loc
+
+ can you please extinguish the light in bedroom
+ out out out action_off out intent_light out loc
+
+ heyy put down the light of kitchen
+ out action_off action_off out intent_light out loc
+
+ hi would you put lights in the hall off
+ out out out action_off intent_light out out loc action_off
+
+ kill out the kitchen light
+ action_off action_off out loc intent_light
+
+ please can you close off lights in the hall
+ out out out action_off action_off intent_light out out loc
+
+ could you please cut light in bedroom down
+ out out out action_off intent_light out loc action_off
+
+ heyy would you close kitchen light off
+ out out out action_off loc intent_light action_off
+
+ could you kill off the light in bedroom
+ out out action_off action_off out intent_light out loc
+
+ close light of the kitchen down
+ action_off intent_light out out loc action_off
+
+ sup please put the kitchen light down
+ out out action_off out loc intent_light action_off
+
+ would you close the lights of the bedroom out
+ out out action_off out intent_light out out loc action_off
+
+ could you close the light in bedroom out
+ out out action_off out intent_light out loc action_off
+
+ would you halt the lights of the bedroom out
+ out out action_off out intent_light out out loc action_off
+
+ can you halt off the light in bedroom
+ out out action_off action_off out intent_light out loc
+
+ close the lights in the kitchen
+ action_off out intent_light out out loc
+
+ would you put out the hall light
+ out out action_off action_off out loc intent_light
+
+ could you put off the light in bedroom
+ out out action_off action_off out intent_light out loc
+
+ hii unplug out the lights of the bedroom
+ out action_off action_off out intent_light out out loc
+
+ cut off lights of bedroom
+ action_off action_off intent_light out loc
+
+ hawai please would you put down the lights in the kitchen
+ out out out out action_off action_off out intent_light out out loc
+
+ heyy shut off lights in the hall
+ out action_off action_off intent_light out out loc
+
+ can you please douse out the kitchen light
+ out out out action_off action_off out loc intent_light
+
+ please could you extinguish kitchen light off
+ out out out action_off loc intent_light action_off
+
+ hawai please would you turn lights of bedroom out
+ out out out out action_off intent_light out loc action_off
+
+ sup could you please turn the hall light out
+ out out out out action_off out loc intent_light action_off
+
+ please would you put down the lights in the kitchen
+ out out out action_off action_off out intent_light out out loc
+
+ can you please kill the hall light out
+ out out out action_off out loc intent_light action_off
+
+ please would you turn the lights of the bedroom out
+ out out out action_off out intent_light out out loc action_off
+
+ can you please shut off lights in the hall
+ out out out action_off action_off intent_light out out loc
+
+ turn lights of bedroom out
+ action_off intent_light out loc action_off
+
+ would you shut out kitchen light
+ out out action_off action_off loc intent_light
+
+ please would you extinguish kitchen light
+ out out out action_off loc intent_light
+
+ howdy put out the hall light
+ out action_off action_off out loc intent_light
+
+ hello shut light in bedroom
+ out action_off intent_light out loc
+
+ hello turn bedroom light off
+ out action_off loc intent_light action_off
+
+ heyy unplug down the light of kitchen
+ out action_off action_off out intent_light out loc
+
+ howdy kill lights of bedroom
+ out action_off intent_light out loc
+
+ would you put down the light of kitchen
+ out out action_off action_off out intent_light out loc
+
+ could you unplug out the lights of the bedroom
+ out out action_off action_off out intent_light out out loc
+
+ extinguish kitchen light
+ action_off loc intent_light
+
+ sup turn lights of bedroom out
+ out action_off intent_light out loc action_off
+
+ extinguish lights of bedroom out
+ action_off intent_light out loc action_off
+
+ halt the lights of the bedroom out
+ action_off out intent_light out out loc action_off
+
+ would you please unplug down the light of kitchen
+ out out out action_off action_off out intent_light out loc
+
+ douse out the kitchen light
+ action_off action_off out loc intent_light
+
+ please put the kitchen light down
+ out action_off out loc intent_light action_off
+
+ could you halt down the lights in the kitchen
+ out out action_off action_off out intent_light out out loc
+
+ hii can you halt off the light in bedroom
+ out out out action_off action_off out intent_light out loc
+
+ please extinguish out kitchen light
+ out action_off action_off loc intent_light
+
+ hawai please switch out kitchen light
+ out out action_off action_off loc intent_light
+
+ hey can you please unplug the lights in the kitchen off
+ out out out out action_off out intent_light out out loc action_off
+
+ please could you switch the light in bedroom out
+ out out out action_off out intent_light out loc action_off
+
+ douse bedroom light
+ action_off loc intent_light
+
+ extinguish the light in bedroom
+ action_off out intent_light out loc
+
+ please would you turn off lights in the hall
+ out out out action_off action_off intent_light out out loc
+
+ please can you extinguish out bedroom light
+ out out out action_off action_off loc intent_light
+
+ switch out kitchen light
+ action_off action_off loc intent_light
+
+ put out the hall light
+ action_off action_off out loc intent_light
+
+ heyy could you halt down the lights in the kitchen
+ out out out action_off action_off out intent_light out out loc
+
+ unplug bedroom light
+ action_off loc intent_light
+
+ extinguish the lights of the bedroom
+ action_off out intent_light out out loc
+
+ shut light in bedroom
+ action_off intent_light out loc
+
+ halt down the lights in the kitchen
+ action_off action_off out intent_light out out loc
+
+ shut the lights of the bedroom
+ action_off out intent_light out out loc
+
+ can you please kill lights of bedroom
+ out out out action_off intent_light out loc
+
+ hey halt off the light in bedroom
+ out action_off action_off out intent_light out loc
+
+ put off the light in bedroom
+ action_off action_off out intent_light out loc
+
+ hi please could you douse out bedroom light
+ out out out out action_off action_off loc intent_light
+
+ turn light in bedroom down
+ action_off intent_light out loc action_off
+
+ turn off lights in the hall
+ action_off action_off intent_light out out loc
+
+ hawai please can you kill out the kitchen light
+ out out out out action_off action_off out loc intent_light
+
+ hawai put the light of kitchen down
+ out action_off out intent_light out loc action_off
+
+ sup please switch the lights of the bedroom out
+ out out action_off out intent_light out out loc action_off
+
+ hi please would you turn lights of bedroom out
+ out out out out action_off intent_light out loc action_off
+
+ put the light of kitchen down
+ action_off out intent_light out loc action_off
+
+ could you switch light of the kitchen down
+ out out action_off intent_light out out loc action_off
+
+ hey douse light of the kitchen
+ out action_off intent_light out out loc
+
+ turn the lights in the kitchen off
+ action_off out intent_light out out loc action_off
+
+ switch the light in bedroom out
+ action_off out intent_light out loc action_off
+
+ cut the hall light
+ action_off out loc intent_light
+
+ can you halt light of the kitchen
+ out out action_off intent_light out out loc
+
+ hey could you put light in bedroom down
+ out out out action_off intent_light out loc action_off
+
+ hii put out the hall light
+ out action_off action_off out loc intent_light
+
+ please would you switch off light in bedroom
+ out out out action_off action_off intent_light out loc
+
+ can you switch out bedroom light
+ out out action_off action_off loc intent_light
+
+ hawai please can you turn off light in bedroom
+ out out out out action_off action_off intent_light out loc
+
+ hey close light of the kitchen down
+ out action_off intent_light out out loc action_off
+
+ put down the lights in the kitchen
+ action_off action_off out intent_light out out loc
+
+ turn off light of the kitchen
+ action_off action_off intent_light out out loc
+
+ howdy please put the kitchen light down
+ out out action_off out loc intent_light action_off
+
+ hawai extinguish the light in bedroom
+ out action_off out intent_light out loc
+
+ sup please can you kill out the kitchen light
+ out out out out action_off action_off out loc intent_light
+
+ can you turn off light of the kitchen
+ out out action_off action_off intent_light out out loc
+
+ cut light in bedroom down
+ action_off intent_light out loc action_off
+
+ heyy turn off light of the kitchen
+ out action_off action_off intent_light out out loc
+
+ could you please put lights in the hall off
+ out out out action_off intent_light out out loc action_off
+
+ would you close kitchen light off
+ out out action_off loc intent_light action_off
+
+ hey please could you turn kitchen light off
+ out out out out action_off loc intent_light action_off
+
+ hi please put the kitchen light down
+ out out action_off out loc intent_light action_off
+
+ unplug the kitchen light
+ action_off out loc intent_light
+
+ halt light of the kitchen
+ action_off intent_light out out loc
+
+ please could you put the light of kitchen down
+ out out out action_off out intent_light out loc action_off
+
+ please can you extinguish the lights in the kitchen off
+ out out out action_off out intent_light out out loc action_off
+
+ switch off lights of bedroom
+ action_off action_off intent_light out loc
+
+ hey please would you switch out kitchen light
+ out out out out action_off action_off loc intent_light
+
+ unplug the light in bedroom
+ action_off out intent_light out loc
+
+ can you douse down the light of kitchen
+ out out action_off action_off out intent_light out loc
+

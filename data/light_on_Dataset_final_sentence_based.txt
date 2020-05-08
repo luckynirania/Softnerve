@@ -1,0 +1,1080 @@
+ switch on kitchen light
+ action_on action_on loc intent_light
+
+ hey can you please turn the light in the kitchen up
+ out out out out action_on out intent_light out out loc action_on
+
+ hello can you put up the light of the hall
+ out out out action_on action_on out intent_light out out loc
+
+ illumine the light in kitchen
+ action_on out intent_light out loc
+
+ please could you glow onn the light of hall
+ out out out action_on action_on out intent_light out loc
+
+ lighten light in kitchen up
+ action_on intent_light out loc action_on
+
+ turn kitchen lights up
+ action_on loc intent_light action_on
+
+ lighten kitchen lights up
+ action_on loc intent_light action_on
+
+ hi please switch up light of the kitchen
+ out out action_on action_on intent_light out out loc
+
+ hey lighten the kitchen lights onn
+ out action_on out loc intent_light action_on
+
+ hawai put the light of hall onn
+ out action_on out intent_light out loc action_on
+
+ please lighten the light in the kitchen
+ out action_on out intent_light out out loc
+
+ hii switch light in kitchen up
+ out action_on intent_light out loc action_on
+
+ switch on light in the hall
+ action_on action_on intent_light out out loc
+
+ would you switch kitchen lights up
+ out out action_on loc intent_light action_on
+
+ hit light in the hall on
+ action_on intent_light out out loc action_on
+
+ can you put up the light of the hall
+ out out action_on action_on out intent_light out out loc
+
+ glow up the light of the hall
+ action_on action_on out intent_light out out loc
+
+ put light of bedroom up
+ action_on intent_light out loc action_on
+
+ lighten on light in the hall
+ action_on action_on intent_light out out loc
+
+ hii could you please put up the light in the kitchen
+ out out out out action_on action_on out intent_light out out loc
+
+ hi please can you put up the bedroom light
+ out out out out action_on action_on out loc intent_light
+
+ brighten light of bedroom
+ action_on intent_light out loc
+
+ what's illuminate light in kitchen
+ out action_on intent_light out loc
+
+ shine up light of the kitchen
+ action_on action_on intent_light out out loc
+
+ sup put onn the kitchen lights
+ out action_on action_on out loc intent_light
+
+ could you please turn onn kitchen lights
+ out out out action_on action_on loc intent_light
+
+ open kitchen light
+ action_on loc intent_light
+
+ would you lighten light in kitchen up
+ out out action_on intent_light out loc action_on
+
+ hi could you switch up light of the kitchen
+ out out out action_on action_on intent_light out out loc
+
+ hi illumine the light in kitchen
+ out action_on out intent_light out loc
+
+ hi lighten the light in kitchen onn
+ out action_on out intent_light out loc action_on
+
+ howdy open kitchen light
+ out action_on loc intent_light
+
+ brighten the bedroom light on
+ action_on out loc intent_light action_on
+
+ what's would you shine the bedroom light on
+ out out out action_on out loc intent_light action_on
+
+ sup put up the light in kitchen
+ out action_on action_on out intent_light out loc
+
+ switch light of the kitchen up
+ action_on intent_light out out loc action_on
+
+ hit onn the kitchen lights
+ action_on action_on out loc intent_light
+
+ put up the bedroom light
+ action_on action_on out loc intent_light
+
+ please would you lighten light of the kitchen up
+ out out out action_on intent_light out out loc action_on
+
+ please would you put the light in the kitchen up
+ out out out action_on out intent_light out out loc action_on
+
+ put on light in the hall
+ action_on action_on intent_light out out loc
+
+ could you lighten the bedroom light
+ out out action_on out loc intent_light
+
+ hello would you please glow onn the kitchen lights
+ out out out out action_on action_on out loc intent_light
+
+ what's please can you put on light in the hall
+ out out out out action_on action_on intent_light out out loc
+
+ please would you put kitchen light on
+ out out out action_on loc intent_light action_on
+
+ hello switch the kitchen lights onn
+ out action_on out loc intent_light action_on
+
+ please can you put on light in the hall
+ out out out action_on action_on intent_light out out loc
+
+ hii can you please switch on kitchen light
+ out out out out action_on action_on loc intent_light
+
+ hii put onn the light of hall
+ out action_on action_on out intent_light out loc
+
+ hit light of the kitchen up
+ action_on intent_light out out loc action_on
+
+ illumine the light of the hall
+ action_on out intent_light out out loc
+
+ would you ignite light in kitchen up
+ out out action_on intent_light out loc action_on
+
+ turn the light in kitchen onn
+ action_on out intent_light out loc action_on
+
+ can you please switch light of the kitchen up
+ out out out action_on intent_light out out loc action_on
+
+ turn onn light in kitchen
+ action_on action_on intent_light out loc
+
+ ignite on kitchen light
+ action_on action_on loc intent_light
+
+ put the light in kitchen onn
+ action_on out intent_light out loc action_on
+
+ turn onn light of bedroom
+ action_on action_on intent_light out loc
+
+ would you switch onn the kitchen lights
+ out out action_on action_on out loc intent_light
+
+ would you please lighten on light in the hall
+ out out out action_on action_on intent_light out out loc
+
+ please can you lighten light of bedroom
+ out out out action_on intent_light out loc
+
+ can you please lighten the light of hall
+ out out out action_on out intent_light out loc
+
+ hii hii can you please switch on kitchen light
+ out out out out out action_on action_on loc intent_light
+
+ ignite kitchen light on
+ action_on loc intent_light action_on
+
+ hey please glow up the light of the hall
+ out out action_on action_on out intent_light out out loc
+
+ would you turn the bedroom light on
+ out out action_on out loc intent_light action_on
+
+ hey please open up the bedroom light
+ out out action_on action_on out loc intent_light
+
+ lighten the bedroom light
+ action_on out loc intent_light
+
+ would you please glow onn the kitchen lights
+ out out out action_on action_on out loc intent_light
+
+ switch the light of hall onn
+ action_on out intent_light out loc action_on
+
+ sup put light in the hall on
+ out action_on intent_light out out loc action_on
+
+ please can you lighten light in the hall on
+ out out out action_on intent_light out out loc action_on
+
+ hey brighten the light of hall onn
+ out action_on out intent_light out loc action_on
+
+ hit light of bedroom up
+ action_on intent_light out loc action_on
+
+ sup can you please hit up the light in the kitchen
+ out out out out action_on action_on out intent_light out out loc
+
+ please lighten onn light of bedroom
+ out action_on action_on intent_light out loc
+
+ howdy ignite onn kitchen lights
+ out action_on action_on loc intent_light
+
+ what's could you please put up the light in the kitchen
+ out out out out action_on action_on out intent_light out out loc
+
+ turn onn light in kitchen
+ action_on action_on intent_light out loc
+
+ hawai shine on kitchen light
+ out action_on action_on loc intent_light
+
+ would you open the light in the kitchen up
+ out out action_on out intent_light out out loc action_on
+
+ please would you turn onn the light of hall
+ out out out action_on action_on out intent_light out loc
+
+ hi brighten the light of hall onn
+ out action_on out intent_light out loc action_on
+
+ hit up the light in the kitchen
+ action_on action_on out intent_light out out loc
+
+ hi please can you put up the bedroom light
+ out out out out action_on action_on out loc intent_light
+
+ howdy switch up the light in the kitchen
+ out action_on action_on out intent_light out out loc
+
+ could you please switch light in the hall on
+ out out out action_on intent_light out out loc action_on
+
+ turn the bedroom light on
+ action_on out loc intent_light action_on
+
+ switch onn light of bedroom
+ action_on action_on intent_light out loc
+
+ please switch up the light in the kitchen
+ out action_on action_on out intent_light out out loc
+
+ hi could you shine up light of the kitchen
+ out out out action_on action_on intent_light out out loc
+
+ would you please ignite kitchen light on
+ out out out action_on loc intent_light action_on
+
+ brighten on light in the hall
+ action_on action_on intent_light out out loc
+
+ turn the kitchen lights onn
+ action_on out loc intent_light action_on
+
+ would you turn onn light in kitchen
+ out out action_on action_on intent_light out loc
+
+ hello ignite light in kitchen
+ out action_on intent_light out loc
+
+ howdy brighten the light of hall onn
+ out action_on out intent_light out loc action_on
+
+ hii hit kitchen light on
+ out action_on loc intent_light action_on
+
+ howdy lighten light of the kitchen up
+ out action_on intent_light out out loc action_on
+
+ illuminate kitchen lights
+ action_on loc intent_light
+
+ brighten the light in kitchen
+ action_on out intent_light out loc
+
+ could you brighten light of bedroom
+ out out action_on intent_light out loc
+
+ howdy put the light of hall onn
+ out action_on out intent_light out loc action_on
+
+ howdy put onn the kitchen lights
+ out action_on action_on out loc intent_light
+
+ glow the light in the kitchen up
+ action_on out intent_light out out loc action_on
+
+ lighten light in the hall on
+ action_on intent_light out out loc action_on
+
+ would you lighten onn light in kitchen
+ out out action_on action_on intent_light out loc
+
+ hello can you please brighten the light of hall onn
+ out out out out action_on out intent_light out loc action_on
+
+ put light of bedroom up
+ action_on intent_light out loc action_on
+
+ put kitchen light on
+ action_on loc intent_light action_on
+
+ please illumine the light of hall
+ out action_on out intent_light out loc
+
+ howdy turn onn light of bedroom
+ out action_on action_on intent_light out loc
+
+ hello please can you put the light in kitchen onn
+ out out out out action_on out intent_light out loc action_on
+
+ could you lighten light of the kitchen
+ out out action_on intent_light out out loc
+
+ please shine the light in kitchen onn
+ out action_on out intent_light out loc action_on
+
+ howdy please can you put up the bedroom light
+ out out out out action_on action_on out loc intent_light
+
+ could you please put up the light in the kitchen
+ out out out action_on action_on out intent_light out out loc
+
+ would you put up the light in kitchen
+ out out action_on action_on out intent_light out loc
+
+ illumine light in the hall
+ action_on intent_light out out loc
+
+ lighten light of bedroom
+ action_on intent_light out loc
+
+ could you please hit light of the kitchen up
+ out out out action_on intent_light out out loc action_on
+
+ would you please put onn the kitchen lights
+ out out out action_on action_on out loc intent_light
+
+ can you switch up the light of the hall
+ out out action_on action_on out intent_light out out loc
+
+ please illuminate onn the light of hall
+ out action_on action_on out intent_light out loc
+
+ hawai put onn the kitchen lights
+ out action_on action_on out loc intent_light
+
+ illumine up the bedroom light
+ action_on action_on out loc intent_light
+
+ hawai please would you put the light of the hall on
+ out out out out action_on out intent_light out out loc action_on
+
+ hello could you please lighten up the light in the kitchen
+ out out out out action_on action_on out intent_light out out loc
+
+ lighten onn light in kitchen
+ action_on action_on intent_light out loc
+
+ hey could you please illumine the light of the hall
+ out out out out action_on out intent_light out out loc
+
+ hey glow onn kitchen lights
+ out action_on action_on loc intent_light
+
+ brighten the kitchen lights
+ action_on out loc intent_light
+
+ lighten up the light in the kitchen
+ action_on action_on out intent_light out out loc
+
+ would you brighten light of bedroom up
+ out out action_on intent_light out loc action_on
+
+ can you turn the light in kitchen onn
+ out out action_on out intent_light out loc action_on
+
+ put up the light of the hall
+ action_on action_on out intent_light out out loc
+
+ would you shine the bedroom light on
+ out out action_on out loc intent_light action_on
+
+ illumine kitchen light
+ action_on loc intent_light
+
+ please put on kitchen light
+ out action_on action_on loc intent_light
+
+ would you please hit onn the kitchen lights
+ out out out action_on action_on out loc intent_light
+
+ could you please illumine the light in kitchen
+ out out out action_on out intent_light out loc
+
+ switch light of the kitchen up
+ action_on intent_light out out loc action_on
+
+ heyy glow the light in the kitchen up
+ out action_on out intent_light out out loc action_on
+
+ hey switch kitchen light on
+ out action_on loc intent_light action_on
+
+ sup ignite onn light in kitchen
+ out action_on action_on intent_light out loc
+
+ hello would you ignite light in kitchen up
+ out out out action_on intent_light out loc action_on
+
+ please would you put onn the light of hall
+ out out out action_on action_on out intent_light out loc
+
+ hii can you please switch onn kitchen lights
+ out out out out action_on action_on loc intent_light
+
+ hawai shine on kitchen light
+ out action_on action_on loc intent_light
+
+ can you brighten on light in the hall
+ out out action_on action_on intent_light out out loc
+
+ hawai turn onn light of bedroom
+ out action_on action_on intent_light out loc
+
+ switch up light of the kitchen
+ action_on action_on intent_light out out loc
+
+ please could you turn onn light of bedroom
+ out out out action_on action_on intent_light out loc
+
+ what's can you please lighten the light of hall
+ out out out out action_on out intent_light out loc
+
+ hello shine the light in kitchen onn
+ out action_on out intent_light out loc action_on
+
+ sup would you please brighten the bedroom light on
+ out out out out action_on out loc intent_light action_on
+
+ lighten the light in kitchen onn
+ action_on out intent_light out loc action_on
+
+ please glow up the light of the hall
+ out action_on action_on out intent_light out out loc
+
+ heyy lighten light of bedroom
+ out action_on intent_light out loc
+
+ hawai brighten the bedroom light on
+ out action_on out loc intent_light action_on
+
+ hey could you illuminate kitchen lights
+ out out out action_on loc intent_light
+
+ shine the bedroom light on
+ action_on out loc intent_light action_on
+
+ brighten light in the hall
+ action_on intent_light out out loc
+
+ hi can you switch up the light of the hall
+ out out out action_on action_on out intent_light out out loc
+
+ could you illuminate kitchen lights
+ out out action_on loc intent_light
+
+ could you please switch light in kitchen up
+ out out out action_on intent_light out loc action_on
+
+ shine up light of the kitchen
+ action_on action_on intent_light out out loc
+
+ please switch up light of the kitchen
+ out action_on action_on intent_light out out loc
+
+ hello illumine light of the kitchen
+ out action_on intent_light out out loc
+
+ howdy please shine up light of the kitchen
+ out out action_on action_on intent_light out out loc
+
+ would you please lighten the kitchen lights onn
+ out out out action_on out loc intent_light action_on
+
+ put the light of the hall on
+ action_on out intent_light out out loc action_on
+
+ sup could you please illumine the light in kitchen
+ out out out out action_on out intent_light out loc
+
+ lighten light of the kitchen
+ action_on intent_light out out loc
+
+ please can you switch the light of hall onn
+ out out out action_on out intent_light out loc action_on
+
+ switch light in kitchen up
+ action_on intent_light out loc action_on
+
+ switch onn kitchen lights
+ action_on action_on loc intent_light
+
+ please could you ignite on kitchen light
+ out out out action_on action_on loc intent_light
+
+ could you lighten the light of the hall on
+ out out action_on out intent_light out out loc action_on
+
+ heyy illumine up the bedroom light
+ out action_on action_on out loc intent_light
+
+ hi please lighten onn light of bedroom
+ out out action_on action_on intent_light out loc
+
+ please can you ignite kitchen lights up
+ out out out action_on loc intent_light action_on
+
+ sup could you please switch light in the hall on
+ out out out out action_on intent_light out out loc action_on
+
+ can you hit kitchen light on
+ out out action_on loc intent_light action_on
+
+ can you hit light of bedroom up
+ out out action_on intent_light out loc action_on
+
+ sup brighten light of bedroom up
+ out action_on intent_light out loc action_on
+
+ what's glow the light of the hall on
+ out action_on out intent_light out out loc action_on
+
+ could you please illumine the light of the hall
+ out out out action_on out intent_light out out loc
+
+ what's please put on kitchen light
+ out out action_on action_on loc intent_light
+
+ would you please brighten the bedroom light on
+ out out out action_on out loc intent_light action_on
+
+ can you please shine the light in the kitchen
+ out out out action_on out intent_light out out loc
+
+ could you please lighten up the light in the kitchen
+ out out out action_on action_on out intent_light out out loc
+
+ please would you switch onn light of bedroom
+ out out out action_on action_on intent_light out loc
+
+ can you please illumine up the bedroom light
+ out out out action_on action_on out loc intent_light
+
+ can you switch light in kitchen up
+ out out action_on intent_light out loc action_on
+
+ could you illumine the light of the hall
+ out out action_on out intent_light out out loc
+
+ hi illumine the light in kitchen
+ out action_on out intent_light out loc
+
+ glow the light of the hall on
+ action_on out intent_light out out loc action_on
+
+ could you please lighten kitchen lights up
+ out out out action_on loc intent_light action_on
+
+ can you ignite light in kitchen
+ out out action_on intent_light out loc
+
+ please would you put the light of hall onn
+ out out out action_on out intent_light out loc action_on
+
+ can you lighten the light in kitchen onn
+ out out action_on out intent_light out loc action_on
+
+ shine the light in the kitchen
+ action_on out intent_light out out loc
+
+ please could you put the light of the hall on
+ out out out action_on out intent_light out out loc action_on
+
+ could you switch light of the kitchen up
+ out out action_on intent_light out out loc action_on
+
+ ignite light in kitchen
+ action_on intent_light out loc
+
+ switch up the light in the kitchen
+ action_on action_on out intent_light out out loc
+
+ put the light in the kitchen up
+ action_on out intent_light out out loc action_on
+
+ illuminate light in kitchen
+ action_on intent_light out loc
+
+ hii can you hit light of bedroom up
+ out out out action_on intent_light out loc action_on
+
+ can you open kitchen light
+ out out action_on loc intent_light
+
+ would you please put light of bedroom up
+ out out out action_on intent_light out loc action_on
+
+ please can you illuminate light in kitchen
+ out out out action_on intent_light out loc
+
+ please can you illumine light in the hall
+ out out out action_on intent_light out out loc
+
+ shine the light in kitchen onn
+ action_on out intent_light out loc action_on
+
+ hey glow up the light of the hall
+ out action_on action_on out intent_light out out loc
+
+ open up the bedroom light
+ action_on action_on out loc intent_light
+
+ glow up the light in kitchen
+ action_on action_on out intent_light out loc
+
+ could you please shine kitchen lights
+ out out out action_on loc intent_light
+
+ hey turn the light in kitchen onn
+ out action_on out intent_light out loc action_on
+
+ would you turn onn light in kitchen
+ out out action_on action_on intent_light out loc
+
+ brighten light of bedroom up
+ action_on intent_light out loc action_on
+
+ put light in the hall on
+ action_on intent_light out out loc action_on
+
+ can you please lighten the bedroom light
+ out out out action_on out loc intent_light
+
+ could you please put light in the hall on
+ out out out action_on intent_light out out loc action_on
+
+ would you please illumine light of the kitchen
+ out out out action_on intent_light out out loc
+
+ please could you brighten up the light in kitchen
+ out out out action_on action_on out intent_light out loc
+
+ can you please brighten the light of hall onn
+ out out out action_on out intent_light out loc action_on
+
+ would you brighten the light of hall onn
+ out out action_on out intent_light out loc action_on
+
+ please would you ignite onn kitchen lights
+ out out out action_on action_on loc intent_light
+
+ brighten the light of hall onn
+ action_on out intent_light out loc action_on
+
+ what's shine the light in kitchen onn
+ out action_on out intent_light out loc action_on
+
+ lighten light of the kitchen up
+ action_on intent_light out out loc action_on
+
+ heyy switch up light of the kitchen
+ out action_on action_on intent_light out out loc
+
+ could you put light of bedroom up
+ out out action_on intent_light out loc action_on
+
+ switch light in kitchen up
+ action_on intent_light out loc action_on
+
+ illumine the light of the hall
+ action_on out intent_light out out loc
+
+ please can you shine on kitchen light
+ out out out action_on action_on loc intent_light
+
+ lighten the kitchen lights onn
+ action_on out loc intent_light action_on
+
+ brighten the light of hall onn
+ action_on out intent_light out loc action_on
+
+ brighten the kitchen lights onn
+ action_on out loc intent_light action_on
+
+ sup please can you put on light in the hall
+ out out out out action_on action_on intent_light out out loc
+
+ hey would you lighten light in kitchen up
+ out out out action_on intent_light out loc action_on
+
+ put the light of the hall on
+ action_on out intent_light out out loc action_on
+
+ heyy lighten light of the kitchen up
+ out action_on intent_light out out loc action_on
+
+ put onn the light of hall
+ action_on action_on out intent_light out loc
+
+ lighten onn light of bedroom
+ action_on action_on intent_light out loc
+
+ put onn the kitchen lights
+ action_on action_on out loc intent_light
+
+ open up the light of the hall
+ action_on action_on out intent_light out out loc
+
+ could you put up the light in kitchen
+ out out action_on action_on out intent_light out loc
+
+ hii would you brighten the light of hall onn
+ out out out action_on out intent_light out loc action_on
+
+ can you please ignite onn light in kitchen
+ out out out action_on action_on intent_light out loc
+
+ sup turn kitchen lights up
+ out action_on loc intent_light action_on
+
+ sup shine on kitchen light
+ out action_on action_on loc intent_light
+
+ illumine light of the kitchen
+ action_on intent_light out out loc
+
+ please could you switch the kitchen lights onn
+ out out out action_on out loc intent_light action_on
+
+ howdy can you lighten the light in kitchen onn
+ out out out action_on out intent_light out loc action_on
+
+ can you brighten light in the hall
+ out out action_on intent_light out out loc
+
+ illuminate onn the light of hall
+ action_on action_on out intent_light out loc
+
+ put on kitchen light
+ action_on action_on loc intent_light
+
+ turn the light in the kitchen up
+ action_on out intent_light out out loc action_on
+
+ can you please switch on kitchen light
+ out out out action_on action_on loc intent_light
+
+ ignite onn kitchen lights
+ action_on action_on loc intent_light
+
+ can you please turn the light in the kitchen up
+ out out out action_on out intent_light out out loc action_on
+
+ put up the light in kitchen
+ action_on action_on out intent_light out loc
+
+ please lighten the kitchen lights
+ out action_on out loc intent_light
+
+ open the light in the kitchen up
+ action_on out intent_light out out loc action_on
+
+ hey please can you ignite kitchen lights up
+ out out out out action_on loc intent_light action_on
+
+ could you glow onn kitchen lights
+ out out action_on action_on loc intent_light
+
+ turn onn kitchen lights
+ action_on action_on loc intent_light
+
+ lighten onn light of bedroom
+ action_on action_on intent_light out loc
+
+ please would you put the light of the hall on
+ out out out action_on out intent_light out out loc action_on
+
+ switch up light of the kitchen
+ action_on action_on intent_light out out loc
+
+ switch up the light of the hall
+ action_on action_on out intent_light out out loc
+
+ hii put onn the kitchen lights
+ out action_on action_on out loc intent_light
+
+ hey switch onn kitchen lights
+ out action_on action_on loc intent_light
+
+ lighten the light in the kitchen
+ action_on out intent_light out out loc
+
+ please would you brighten the kitchen lights
+ out out out action_on out loc intent_light
+
+ can you please switch onn kitchen lights
+ out out out action_on action_on loc intent_light
+
+ brighten up the light in kitchen
+ action_on action_on out intent_light out loc
+
+ turn onn the light of hall
+ action_on action_on out intent_light out loc
+
+ sup put up the light in the kitchen
+ out action_on action_on out intent_light out out loc
+
+ illumine the light of hall
+ action_on out intent_light out loc
+
+ switch light in the hall on
+ action_on intent_light out out loc action_on
+
+ put up the light in the kitchen
+ action_on action_on out intent_light out out loc
+
+ could you lighten onn light of bedroom
+ out out action_on action_on intent_light out loc
+
+ howdy hit up the light in the kitchen
+ out action_on action_on out intent_light out out loc
+
+ lighten the light of hall
+ action_on out intent_light out loc
+
+ sup brighten light of bedroom up
+ out action_on intent_light out loc action_on
+
+ would you please hit light in the hall on
+ out out out action_on intent_light out out loc action_on
+
+ please can you put up the bedroom light
+ out out out action_on action_on out loc intent_light
+
+ switch kitchen lights up
+ action_on loc intent_light action_on
+
+ hey please would you turn onn the light of hall
+ out out out out action_on action_on out intent_light out loc
+
+ switch the kitchen lights onn
+ action_on out loc intent_light action_on
+
+ what's switch kitchen lights up
+ out action_on loc intent_light action_on
+
+ could you please put up the bedroom light
+ out out out action_on action_on out loc intent_light
+
+ would you glow up the light in kitchen
+ out out action_on action_on out intent_light out loc
+
+ ignite light in kitchen up
+ action_on intent_light out loc action_on
+
+ please could you brighten the kitchen lights onn
+ out out out action_on out loc intent_light action_on
+
+ glow onn kitchen lights
+ action_on action_on loc intent_light
+
+ could you shine up light of the kitchen
+ out out action_on action_on intent_light out out loc
+
+ what's hit light in the hall on
+ out action_on intent_light out out loc action_on
+
+ shine on kitchen light
+ action_on action_on loc intent_light
+
+ hi glow the light of the hall on
+ out action_on out intent_light out out loc action_on
+
+ turn the bedroom light on
+ action_on out loc intent_light action_on
+
+ heyy lighten the bedroom light
+ out action_on out loc intent_light
+
+ can you please hit up the light in the kitchen
+ out out out action_on action_on out intent_light out out loc
+
+ hello brighten light in the hall
+ out action_on intent_light out out loc
+
+ hey illuminate onn the light of hall
+ out action_on action_on out intent_light out loc
+
+ hi please could you switch the kitchen lights onn
+ out out out out action_on out loc intent_light action_on
+
+ lighten the kitchen lights
+ action_on out loc intent_light
+
+ sup ignite light in kitchen up
+ out action_on intent_light out loc action_on
+
+ please open up the bedroom light
+ out action_on action_on out loc intent_light
+
+ ignite onn light in kitchen
+ action_on action_on intent_light out loc
+
+ ignite kitchen lights up
+ action_on loc intent_light action_on
+
+ put up the light in kitchen
+ action_on action_on out intent_light out loc
+
+ hi illumine up the bedroom light
+ out action_on action_on out loc intent_light
+
+ shine kitchen lights
+ action_on loc intent_light
+
+ howdy switch light in kitchen up
+ out action_on intent_light out loc action_on
+
+ howdy could you please illumine the light in kitchen
+ out out out out action_on out intent_light out loc
+
+ can you illumine kitchen light
+ out out action_on loc intent_light
+
+ put the light of hall onn
+ action_on out intent_light out loc action_on
+
+ can you please turn the kitchen lights onn
+ out out out action_on out loc intent_light action_on
+
+ hit kitchen light on
+ action_on loc intent_light action_on
+
+ hello would you please brighten the light in kitchen
+ out out out out action_on out intent_light out loc
+
+ hello turn onn the light of hall
+ out action_on action_on out intent_light out loc
+
+ switch onn the kitchen lights
+ action_on action_on out loc intent_light
+
+ glow onn the kitchen lights
+ action_on action_on out loc intent_light
+
+ what's can you hit light of bedroom up
+ out out out action_on intent_light out loc action_on
+
+ hello hit onn the kitchen lights
+ out action_on action_on out loc intent_light
+
+ switch kitchen light on
+ action_on loc intent_light action_on
+
+ hawai can you please ignite onn light in kitchen
+ out out out out action_on action_on intent_light out loc
+
+ could you switch up light of the kitchen
+ out out action_on action_on intent_light out out loc
+
+ hawai could you glow onn kitchen lights
+ out out out action_on action_on loc intent_light
+
+ would you turn the bedroom light on
+ out out action_on out loc intent_light action_on
+
+ please could you switch on light in the hall
+ out out out action_on action_on intent_light out out loc
+
+ hii please illuminate onn the light of hall
+ out out action_on action_on out intent_light out loc
+
+ lighten the bedroom light
+ action_on out loc intent_light
+
+ can you please turn kitchen lights up
+ out out out action_on loc intent_light action_on
+
+ put up the bedroom light
+ action_on action_on out loc intent_light
+
+ please can you put the light in kitchen onn
+ out out out action_on out intent_light out loc action_on
+
+ please shine up light of the kitchen
+ out action_on action_on intent_light out out loc
+
+ hello lighten light of bedroom
+ out action_on intent_light out loc
+
+ could you glow the light of the hall on
+ out out action_on out intent_light out out loc action_on
+
+ please would you glow the light in the kitchen up
+ out out out action_on out intent_light out out loc action_on
+
+ heyy illumine kitchen light
+ out action_on loc intent_light
+
+ hello could you lighten onn light of bedroom
+ out out out action_on action_on intent_light out loc
+
+ hawai put the light of hall onn
+ out action_on out intent_light out loc action_on
+
+ hey could you put light of bedroom up
+ out out out action_on intent_light out loc action_on
+
+ heyy glow the light of the hall on
+ out action_on out intent_light out out loc action_on
+
+ please can you switch kitchen light on
+ out out out action_on loc intent_light action_on
+
+ hawai lighten the light in the kitchen
+ out action_on out intent_light out out loc
+
+ howdy can you switch light in kitchen up
+ out out out action_on intent_light out loc action_on
+
+ could you open up the light of the hall
+ out out action_on action_on out intent_light out out loc
+
+ would you please brighten the light in kitchen
+ out out out action_on out intent_light out loc
+
+ lighten the light of the hall on
+ action_on out intent_light out out loc action_on
+
+ glow onn the light of hall
+ action_on action_on out intent_light out loc
+
+ howdy please can you shine on kitchen light
+ out out out out action_on action_on loc intent_light
+
+ what's turn onn light in kitchen
+ out action_on action_on intent_light out loc
+

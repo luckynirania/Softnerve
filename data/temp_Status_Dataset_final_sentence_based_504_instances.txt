@@ -1,0 +1,1512 @@
+ hit temperature in the kitchen
+ action_querry intent_temp out out loc
+
+ hello please would you watch me the temperature in the kitchen
+ out out out out action_querry out out intent_temp out out loc
+
+ sup could you obtain us with temperature in hall
+ out out out action_querry out out intent_temp out loc
+
+ would you please view the bedroom temperature is
+ out out out action_querry out loc intent_temp out
+
+ catch us with temperature in the bedroom is
+ action_querry out out intent_temp out out loc out
+
+ can you find temperature of bedroom
+ out out action_querry intent_temp out loc
+
+ hi discover us up the bedroom temperature is
+ out action_querry out out out loc intent_temp out
+
+ could you see us up the bedroom temperature is
+ out out action_querry out out out loc intent_temp out
+
+ please watch us with the temperature of hall
+ out action_querry out out out intent_temp out loc
+
+ howdy could you catch the bedroom temperature is
+ out out out action_querry out loc intent_temp out
+
+ hi obtain us with temperature in hall
+ out action_querry out out intent_temp out loc
+
+ recover us up temperature in the kitchen
+ action_querry out out intent_temp out out loc
+
+ howdy could you detect the temperature in kitchen
+ out out out action_querry out intent_temp out loc
+
+ can you try the hall temperature
+ out out action_querry out loc intent_temp
+
+ can you recieve me the hall temperature
+ out out action_querry out out loc intent_temp
+
+ would you watch me up temperature of bedroom
+ out out action_querry out out intent_temp out loc
+
+ watch me the kitchen temperature is
+ action_querry out out loc intent_temp out
+
+ grab the temperature of the kitchen
+ action_querry out intent_temp out out loc
+
+ hawai enquire me the bedroom temperature is
+ out action_querry out out loc intent_temp out
+
+ hawai would you please retrieve the hall temperature
+ out out out out action_querry out loc intent_temp
+
+ hawai investigate temperature of bedroom
+ out action_querry intent_temp out loc
+
+ recover us the temperature in kitchen
+ action_querry out out intent_temp out loc
+
+ heyy examine us with temperature in hall
+ out action_querry out out intent_temp out loc
+
+ heyy would you what us up temperature of the bedroom is
+ out out out action_querry out out intent_temp out out loc out
+
+ please can you analyse us the temperature of hall
+ out out out action_querry out out intent_temp out loc
+
+ grab us with the bedroom temperature
+ action_querry out out out loc intent_temp
+
+ get me with the kitchen temperature is
+ action_querry out out out loc intent_temp out
+
+ would you please tally me temperature of the bedroom is
+ out out out action_querry out intent_temp out out loc out
+
+ hawai see us with temperature in the bedroom is
+ out action_querry out out intent_temp out out loc out
+
+ please see us up the temperature of the kitchen
+ out action_querry out out out intent_temp out out loc
+
+ please would you study us temperature of bedroom
+ out out out action_querry out intent_temp out loc
+
+ howdy recover temperature of the bedroom is
+ out action_querry intent_temp out out loc out
+
+ tally me the temperature in the kitchen
+ action_querry out out intent_temp out out loc
+
+ hawai please retrieve me temperature in the kitchen
+ out out action_querry out intent_temp out out loc
+
+ what the bedroom temperature is
+ action_querry out loc intent_temp out
+
+ could you please recover temperature in the bedroom is
+ out out out action_querry intent_temp out out loc out
+
+ would you determine the kitchen temperature is
+ out out action_querry out loc intent_temp out
+
+ sup please retrieve me temperature in the kitchen
+ out out action_querry out intent_temp out out loc
+
+ sup could you detect the temperature in the kitchen
+ out out out action_querry out intent_temp out out loc
+
+ could you tally me the temperature in the kitchen
+ out out action_querry out out intent_temp out out loc
+
+ pick temperature of bedroom
+ action_querry intent_temp out loc
+
+ howdy please would you study us temperature of bedroom
+ out out out out action_querry out intent_temp out loc
+
+ capture the bedroom temperature
+ action_querry out loc intent_temp
+
+ obtain me the hall temperature
+ action_querry out out loc intent_temp
+
+ determine me with temperature of the bedroom
+ action_querry out out intent_temp out out loc
+
+ hello could you please study me the hall temperature
+ out out out out action_querry out out loc intent_temp
+
+ could you capture the temperature in kitchen
+ out out action_querry out intent_temp out loc
+
+ can you please recover us up temperature in the kitchen
+ out out out action_querry out out intent_temp out out loc
+
+ sup could you recieve the bedroom temperature
+ out out out action_querry out loc intent_temp
+
+ what's get us up the hall temperature
+ out action_querry out out out loc intent_temp
+
+ hello study us the temperature in kitchen
+ out action_querry out out intent_temp out loc
+
+ could you please find the temperature in kitchen
+ out out out action_querry out intent_temp out loc
+
+ could you examine me the temperature in the kitchen
+ out out action_querry out out intent_temp out out loc
+
+ hello could you get us up the temperature in kitchen
+ out out out action_querry out out out intent_temp out loc
+
+ would you please tally me with the kitchen temperature is
+ out out out action_querry out out out loc intent_temp out
+
+ hawai suspect temperature in the bedroom is
+ out action_querry intent_temp out out loc out
+
+ get us temperature in the bedroom is
+ action_querry out intent_temp out out loc out
+
+ try me with the temperature in the kitchen
+ action_querry out out out intent_temp out out loc
+
+ find temperature in hall
+ action_querry intent_temp out loc
+
+ hey grab us with the bedroom temperature
+ out action_querry out out out loc intent_temp
+
+ please would you recover the temperature of hall
+ out out out action_querry out intent_temp out loc
+
+ hello get us temperature of the bedroom
+ out action_querry out intent_temp out out loc
+
+ hawai recover temperature in the bedroom is
+ out action_querry intent_temp out out loc out
+
+ hawai can you what us up temperature of the bedroom is
+ out out out action_querry out out intent_temp out out loc out
+
+ obtain temperature of the bedroom
+ action_querry intent_temp out out loc
+
+ discover temperature of the bedroom
+ action_querry intent_temp out out loc
+
+ watch me temperature of the bedroom is
+ action_querry out intent_temp out out loc out
+
+ see the kitchen temperature is
+ action_querry out loc intent_temp out
+
+ please can you what us with the bedroom temperature
+ out out out action_querry out out out loc intent_temp
+
+ heyy could you please find me with the kitchen temperature is
+ out out out out action_querry out out out loc intent_temp out
+
+ howdy view me with the temperature in the kitchen
+ out action_querry out out out intent_temp out out loc
+
+ sup would you please catch me the kitchen temperature is
+ out out out out action_querry out out loc intent_temp out
+
+ can you suspect us with temperature in the bedroom is
+ out out action_querry out out intent_temp out out loc out
+
+ sup grab the temperature of the kitchen
+ out action_querry out intent_temp out out loc
+
+ can you please get us temperature in the bedroom is
+ out out out action_querry out intent_temp out out loc out
+
+ hello get us up the temperature in kitchen
+ out action_querry out out out intent_temp out loc
+
+ find us the temperature of hall
+ action_querry out out intent_temp out loc
+
+ can you what us up temperature of the bedroom is
+ out out action_querry out out intent_temp out out loc out
+
+ hi determine the kitchen temperature is
+ out action_querry out loc intent_temp out
+
+ please could you get me with the kitchen temperature is
+ out out out action_querry out out out loc intent_temp out
+
+ sup hit the hall temperature
+ out action_querry out loc intent_temp
+
+ would you watch me the kitchen temperature is
+ out out action_querry out out loc intent_temp out
+
+ find the temperature in the kitchen
+ action_querry out intent_temp out out loc
+
+ what the temperature of hall
+ action_querry out intent_temp out loc
+
+ would you please view the temperature in the kitchen
+ out out out action_querry out intent_temp out out loc
+
+ retrieve temperature of the bedroom
+ action_querry intent_temp out out loc
+
+ could you please enquire me up temperature of bedroom
+ out out out action_querry out out intent_temp out loc
+
+ determine us up the bedroom temperature is
+ action_querry out out out loc intent_temp out
+
+ can you get us up the hall temperature
+ out out action_querry out out out loc intent_temp
+
+ capture us temperature in the bedroom is
+ action_querry out intent_temp out out loc out
+
+ hey could you capture the temperature in kitchen
+ out out out action_querry out intent_temp out loc
+
+ analyse us the temperature of hall
+ action_querry out out intent_temp out loc
+
+ tally me temperature of the bedroom is
+ action_querry out intent_temp out out loc out
+
+ what us up temperature in the kitchen
+ action_querry out out intent_temp out out loc
+
+ can you try the temperature of the kitchen
+ out out action_querry out intent_temp out out loc
+
+ could you obtain temperature in the kitchen
+ out out action_querry intent_temp out out loc
+
+ would you please retrieve the hall temperature
+ out out out action_querry out loc intent_temp
+
+ could you please obtain me the bedroom temperature is
+ out out out action_querry out out loc intent_temp out
+
+ hello see us temperature of the bedroom
+ out action_querry out intent_temp out out loc
+
+ what's recover temperature in the bedroom is
+ out action_querry intent_temp out out loc out
+
+ sup could you please grab us with the temperature of hall
+ out out out out action_querry out out out intent_temp out loc
+
+ howdy find us the temperature of hall
+ out action_querry out out intent_temp out loc
+
+ hi can you please pick me the kitchen temperature is
+ out out out out action_querry out out loc intent_temp out
+
+ hit us the bedroom temperature
+ action_querry out out loc intent_temp
+
+ can you please what me with temperature of the bedroom
+ out out out action_querry out out intent_temp out out loc
+
+ please can you grab the temperature of the kitchen
+ out out out action_querry out intent_temp out out loc
+
+ examine the bedroom temperature
+ action_querry out loc intent_temp
+
+ hi could you see us up the bedroom temperature is
+ out out out action_querry out out out loc intent_temp out
+
+ recover me up temperature of bedroom
+ action_querry out out intent_temp out loc
+
+ would you please capture us up the temperature of the kitchen
+ out out out action_querry out out out intent_temp out out loc
+
+ howdy could you please view me with the temperature in the kitchen
+ out out out out action_querry out out out intent_temp out out loc
+
+ could you please grab me the kitchen temperature is
+ out out out action_querry out out loc intent_temp out
+
+ study us the temperature in kitchen
+ action_querry out out intent_temp out loc
+
+ could you please grab us with the temperature of hall
+ out out out action_querry out out out intent_temp out loc
+
+ hey please could you get us temperature of the bedroom
+ out out out out action_querry out intent_temp out out loc
+
+ please can you catch us with temperature in the bedroom is
+ out out out action_querry out out intent_temp out out loc out
+
+ what us temperature in the bedroom is
+ action_querry out intent_temp out out loc out
+
+ could you please study us the temperature in kitchen
+ out out out action_querry out out intent_temp out loc
+
+ could you detect the temperature in the kitchen
+ out out action_querry out intent_temp out out loc
+
+ hey recover us up temperature in the kitchen
+ out action_querry out out intent_temp out out loc
+
+ detect temperature of bedroom
+ action_querry intent_temp out loc
+
+ study me the hall temperature
+ action_querry out out loc intent_temp
+
+ sup see us up temperature of the bedroom is
+ out action_querry out out intent_temp out out loc out
+
+ grab me with temperature of the bedroom
+ action_querry out out intent_temp out out loc
+
+ hawai could you suspect us temperature of bedroom
+ out out out action_querry out intent_temp out loc
+
+ study us temperature of bedroom
+ action_querry out intent_temp out loc
+
+ catch the bedroom temperature is
+ action_querry out loc intent_temp out
+
+ pick me the kitchen temperature is
+ action_querry out out loc intent_temp out
+
+ see us temperature of the bedroom
+ action_querry out intent_temp out out loc
+
+ heyy get me the bedroom temperature is
+ out action_querry out out loc intent_temp out
+
+ please would you obtain me temperature of the bedroom is
+ out out out action_querry out intent_temp out out loc out
+
+ hey could you recieve the bedroom temperature
+ out out out action_querry out loc intent_temp
+
+ retrieve me temperature in the kitchen
+ action_querry out intent_temp out out loc
+
+ hello would you discover me the temperature of the kitchen
+ out out out action_querry out out intent_temp out out loc
+
+ would you please hit the hall temperature
+ out out out action_querry out loc intent_temp
+
+ would you please find us up the hall temperature
+ out out out action_querry out out out loc intent_temp
+
+ could you detect temperature of bedroom
+ out out action_querry intent_temp out loc
+
+ watch temperature of the bedroom is
+ action_querry intent_temp out out loc out
+
+ can you please examine us up the bedroom temperature is
+ out out out action_querry out out out loc intent_temp out
+
+ recover temperature in the bedroom is
+ action_querry intent_temp out out loc out
+
+ what's try temperature in the kitchen
+ out action_querry intent_temp out out loc
+
+ recieve us up the temperature of the kitchen
+ action_querry out out out intent_temp out out loc
+
+ hey see us temperature of the bedroom
+ out action_querry out intent_temp out out loc
+
+ hey could you please recieve me the temperature in the kitchen
+ out out out out action_querry out out intent_temp out out loc
+
+ can you determine us up the bedroom temperature is
+ out out action_querry out out out loc intent_temp out
+
+ recover temperature of the bedroom is
+ action_querry intent_temp out out loc out
+
+ sup hit us the bedroom temperature
+ out action_querry out out loc intent_temp
+
+ howdy please could you capture us the temperature in kitchen
+ out out out out action_querry out out intent_temp out loc
+
+ hi can you please examine us up the bedroom temperature is
+ out out out out action_querry out out out loc intent_temp out
+
+ could you catch the bedroom temperature is
+ out out action_querry out loc intent_temp out
+
+ please could you get us temperature of the bedroom
+ out out out action_querry out intent_temp out out loc
+
+ please would you retrieve temperature in hall
+ out out out action_querry intent_temp out loc
+
+ pick us with the bedroom temperature
+ action_querry out out out loc intent_temp
+
+ grab us up the hall temperature
+ action_querry out out out loc intent_temp
+
+ recover us up the temperature of the kitchen
+ action_querry out out out intent_temp out out loc
+
+ find the temperature in kitchen
+ action_querry out intent_temp out loc
+
+ could you please view me with the temperature in the kitchen
+ out out out action_querry out out out intent_temp out out loc
+
+ please could you determine the temperature of hall
+ out out out action_querry out intent_temp out loc
+
+ hi can you try the temperature of the kitchen
+ out out out action_querry out intent_temp out out loc
+
+ what's would you please discover us the temperature in kitchen
+ out out out out action_querry out out intent_temp out loc
+
+ watch me with the temperature in the kitchen
+ action_querry out out out intent_temp out out loc
+
+ find temperature of bedroom
+ action_querry intent_temp out loc
+
+ can you suspect temperature in the bedroom is
+ out out action_querry intent_temp out out loc out
+
+ hello detect the temperature in kitchen
+ out action_querry out intent_temp out loc
+
+ recieve the bedroom temperature
+ action_querry out loc intent_temp
+
+ find us up the hall temperature
+ action_querry out out out loc intent_temp
+
+ recieve us the bedroom temperature
+ action_querry out out loc intent_temp
+
+ determine me the hall temperature
+ action_querry out out loc intent_temp
+
+ would you please recieve us the bedroom temperature
+ out out out action_querry out out loc intent_temp
+
+ please could you capture us the temperature in kitchen
+ out out out action_querry out out intent_temp out loc
+
+ capture us up the temperature of the kitchen
+ action_querry out out out intent_temp out out loc
+
+ can you please recover us the temperature in kitchen
+ out out out action_querry out out intent_temp out loc
+
+ please would you discover temperature of the bedroom
+ out out out action_querry intent_temp out out loc
+
+ try temperature in hall
+ action_querry intent_temp out loc
+
+ obtain us up the temperature in kitchen
+ action_querry out out out intent_temp out loc
+
+ watch me with the kitchen temperature is
+ action_querry out out out loc intent_temp out
+
+ hello hit me with temperature of the bedroom
+ out action_querry out out intent_temp out out loc
+
+ hawai would you please catch temperature of the bedroom
+ out out out out action_querry intent_temp out out loc
+
+ please could you suspect the temperature of the kitchen
+ out out out action_querry out intent_temp out out loc
+
+ view the temperature in the kitchen
+ action_querry out intent_temp out out loc
+
+ can you what me temperature in hall
+ out out action_querry out intent_temp out loc
+
+ please can you find us up temperature of the bedroom is
+ out out out action_querry out out intent_temp out out loc out
+
+ please can you catch us with temperature in hall
+ out out out action_querry out out intent_temp out loc
+
+ would you please get us with temperature in hall
+ out out out action_querry out out intent_temp out loc
+
+ what me temperature in hall
+ action_querry out intent_temp out loc
+
+ please could you see the kitchen temperature is
+ out out out action_querry out loc intent_temp out
+
+ heyy obtain us with temperature in hall
+ out action_querry out out intent_temp out loc
+
+ hello can you please get us temperature in the bedroom is
+ out out out out action_querry out intent_temp out out loc out
+
+ what's could you analyse us the temperature of hall
+ out out out action_querry out out intent_temp out loc
+
+ get us with temperature in hall
+ action_querry out out intent_temp out loc
+
+ howdy would you what us up temperature of the bedroom is
+ out out out action_querry out out intent_temp out out loc out
+
+ please could you detect temperature in the bedroom is
+ out out out action_querry intent_temp out out loc out
+
+ please pick us with the bedroom temperature
+ out action_querry out out out loc intent_temp
+
+ detect temperature in the bedroom is
+ action_querry intent_temp out out loc out
+
+ hey sup could you detect the temperature in the kitchen
+ out out out out action_querry out intent_temp out out loc
+
+ sup could you detect the temperature in the kitchen
+ out out out action_querry out intent_temp out out loc
+
+ hey find us up temperature in the kitchen
+ out action_querry out out intent_temp out out loc
+
+ can you recieve the bedroom temperature
+ out out action_querry out loc intent_temp
+
+ examine us up the temperature in kitchen
+ action_querry out out out intent_temp out loc
+
+ what me temperature in the kitchen
+ action_querry out intent_temp out out loc
+
+ would you please catch me the kitchen temperature is
+ out out out action_querry out out loc intent_temp out
+
+ watch us the bedroom temperature
+ action_querry out out loc intent_temp
+
+ hi recover us up temperature in the kitchen
+ out action_querry out out intent_temp out out loc
+
+ determine the kitchen temperature is
+ action_querry out loc intent_temp out
+
+ capture us the temperature in kitchen
+ action_querry out out intent_temp out loc
+
+ please would you hit temperature in the bedroom is
+ out out out action_querry intent_temp out out loc out
+
+ howdy try the temperature of the kitchen
+ out action_querry out intent_temp out out loc
+
+ howdy could you please recover temperature in the bedroom is
+ out out out out action_querry intent_temp out out loc out
+
+ please enquire me the bedroom temperature is
+ out action_querry out out loc intent_temp out
+
+ obtain me temperature of the bedroom is
+ action_querry out intent_temp out out loc out
+
+ recover us up temperature in the kitchen
+ action_querry out out intent_temp out out loc
+
+ hey please can you recover us up temperature in the kitchen
+ out out out out action_querry out out intent_temp out out loc
+
+ could you please see us with temperature in the bedroom is
+ out out out action_querry out out intent_temp out out loc out
+
+ hawai what us with the bedroom temperature
+ out action_querry out out out loc intent_temp
+
+ tally the temperature of the kitchen
+ action_querry out intent_temp out out loc
+
+ sup could you recieve the bedroom temperature
+ out out out action_querry out loc intent_temp
+
+ can you see us up temperature of the bedroom is
+ out out action_querry out out intent_temp out out loc out
+
+ would you please hit me temperature in the kitchen
+ out out out action_querry out intent_temp out out loc
+
+ would you tally the temperature of hall
+ out out action_querry out intent_temp out loc
+
+ analyse me the temperature of the kitchen
+ action_querry out out intent_temp out out loc
+
+ examine us temperature in the bedroom is
+ action_querry out intent_temp out out loc out
+
+ could you please study me the hall temperature
+ out out out action_querry out out loc intent_temp
+
+ can you get me the bedroom temperature is
+ out out action_querry out out loc intent_temp out
+
+ please detect us temperature of bedroom
+ out action_querry out intent_temp out loc
+
+ what's would you please get us with temperature in hall
+ out out out out action_querry out out intent_temp out loc
+
+ can you try us the bedroom temperature
+ out out action_querry out out loc intent_temp
+
+ would you please analyse the bedroom temperature is
+ out out out action_querry out loc intent_temp out
+
+ please would you determine me the hall temperature
+ out out out action_querry out out loc intent_temp
+
+ can you please examine the bedroom temperature
+ out out out action_querry out loc intent_temp
+
+ what's would you please hit the hall temperature
+ out out out out action_querry out loc intent_temp
+
+ could you determine us up the hall temperature
+ out out action_querry out out out loc intent_temp
+
+ view me up temperature of bedroom
+ action_querry out out intent_temp out loc
+
+ would you examine us temperature in the bedroom is
+ out out action_querry out intent_temp out out loc out
+
+ hello watch me up temperature of bedroom
+ out action_querry out out intent_temp out loc
+
+ capture the kitchen temperature is
+ action_querry out loc intent_temp out
+
+ watch me up temperature of bedroom
+ action_querry out out intent_temp out loc
+
+ find me with the kitchen temperature is
+ action_querry out out out loc intent_temp out
+
+ hello find us up temperature in the kitchen
+ out action_querry out out intent_temp out out loc
+
+ would you try the temperature in the kitchen
+ out out action_querry out intent_temp out out loc
+
+ sup can you get us up the hall temperature
+ out out out action_querry out out out loc intent_temp
+
+ hawai would you please find us up the hall temperature
+ out out out out action_querry out out out loc intent_temp
+
+ could you please find me temperature in hall
+ out out out action_querry out intent_temp out loc
+
+ what me with temperature of the bedroom
+ action_querry out out intent_temp out out loc
+
+ please would you grab us up the hall temperature
+ out out out action_querry out out out loc intent_temp
+
+ sup please can you grab the temperature of the kitchen
+ out out out out action_querry out intent_temp out out loc
+
+ see us up temperature of the bedroom is
+ action_querry out out intent_temp out out loc out
+
+ could you please hit me with temperature of the bedroom
+ out out out action_querry out out intent_temp out out loc
+
+ hey please discover us up the bedroom temperature is
+ out out action_querry out out out loc intent_temp out
+
+ retrieve temperature in hall
+ action_querry intent_temp out loc
+
+ heyy get us temperature in the bedroom is
+ out action_querry out intent_temp out out loc out
+
+ hello watch me the temperature in the kitchen
+ out action_querry out out intent_temp out out loc
+
+ could you please grab me with temperature of the bedroom
+ out out out action_querry out out intent_temp out out loc
+
+ would you please discover us the temperature in kitchen
+ out out out action_querry out out intent_temp out loc
+
+ what's please detect us temperature of bedroom
+ out out action_querry out intent_temp out loc
+
+ please would you detect us with the bedroom temperature
+ out out out action_querry out out out loc intent_temp
+
+ catch temperature of the bedroom is
+ action_querry intent_temp out out loc out
+
+ enquire the temperature in kitchen
+ action_querry out intent_temp out loc
+
+ what's pick us with the bedroom temperature
+ out action_querry out out out loc intent_temp
+
+ try the hall temperature
+ action_querry out loc intent_temp
+
+ can you try me with the temperature in the kitchen
+ out out action_querry out out out intent_temp out out loc
+
+ sup can you please recover us the temperature in kitchen
+ out out out out action_querry out out intent_temp out loc
+
+ hi please can you view me up temperature of bedroom
+ out out out out action_querry out out intent_temp out loc
+
+ what's discover us the temperature in kitchen
+ out action_querry out out intent_temp out loc
+
+ sup would you please catch me the kitchen temperature is
+ out out out out action_querry out out loc intent_temp out
+
+ please would you capture us temperature in the bedroom is
+ out out out action_querry out intent_temp out out loc out
+
+ heyy what us temperature in the bedroom is
+ out action_querry out intent_temp out out loc out
+
+ discover me the temperature of the kitchen
+ action_querry out out intent_temp out out loc
+
+ what's examine us up the bedroom temperature is
+ out action_querry out out out loc intent_temp out
+
+ hi capture the kitchen temperature is
+ out action_querry out loc intent_temp out
+
+ investigate us temperature of the bedroom
+ action_querry out intent_temp out out loc
+
+ would you what temperature in hall
+ out out action_querry intent_temp out loc
+
+ please could you hit temperature in the kitchen
+ out out out action_querry intent_temp out out loc
+
+ sup get us with temperature in hall
+ out action_querry out out intent_temp out loc
+
+ suspect us temperature of bedroom
+ action_querry out intent_temp out loc
+
+ find us up temperature of the bedroom is
+ action_querry out out intent_temp out out loc out
+
+ please could you investigate us up the temperature in kitchen
+ out out out action_querry out out out intent_temp out loc
+
+ hawai study me the hall temperature
+ out action_querry out out loc intent_temp
+
+ please would you watch us the bedroom temperature
+ out out out action_querry out out loc intent_temp
+
+ could you capture the bedroom temperature
+ out out action_querry out loc intent_temp
+
+ heyy could you detect the temperature in kitchen
+ out out out action_querry out intent_temp out loc
+
+ hawai can you what me temperature in hall
+ out out out action_querry out intent_temp out loc
+
+ can you please hit me the temperature of the kitchen
+ out out out action_querry out out intent_temp out out loc
+
+ hi can you suspect us with temperature in the bedroom is
+ out out out action_querry out out intent_temp out out loc out
+
+ what's would you watch me up temperature of bedroom
+ out out out action_querry out out intent_temp out loc
+
+ hey can you try us the bedroom temperature
+ out out out action_querry out out loc intent_temp
+
+ please capture the kitchen temperature is
+ out action_querry out loc intent_temp out
+
+ can you please enquire us with the temperature of hall
+ out out out action_querry out out out intent_temp out loc
+
+ please could you obtain us up the temperature in kitchen
+ out out out action_querry out out out intent_temp out loc
+
+ study us temperature of bedroom
+ action_querry out intent_temp out loc
+
+ sup view us temperature of the bedroom
+ out action_querry out intent_temp out out loc
+
+ recieve me the temperature in the kitchen
+ action_querry out out intent_temp out out loc
+
+ hey could you please find the temperature in kitchen
+ out out out out action_querry out intent_temp out loc
+
+ please would you watch me the temperature in the kitchen
+ out out out action_querry out out intent_temp out out loc
+
+ can you please pick me the kitchen temperature is
+ out out out action_querry out out loc intent_temp out
+
+ hi please would you discover temperature of the bedroom
+ out out out out action_querry intent_temp out out loc
+
+ please could you obtain temperature of the bedroom
+ out out out action_querry intent_temp out out loc
+
+ hawai try the temperature of the kitchen
+ out action_querry out intent_temp out out loc
+
+ find me temperature in hall
+ action_querry out intent_temp out loc
+
+ please could you determine me with temperature of the bedroom
+ out out out action_querry out out intent_temp out out loc
+
+ hey could you please obtain me the bedroom temperature is
+ out out out out action_querry out out loc intent_temp out
+
+ would you enquire the temperature in kitchen
+ out out action_querry out intent_temp out loc
+
+ what's study us temperature of bedroom
+ out action_querry out intent_temp out loc
+
+ enquire us with the temperature of hall
+ action_querry out out out intent_temp out loc
+
+ hello can you recover us up the temperature of the kitchen
+ out out out action_querry out out out intent_temp out out loc
+
+ catch me the kitchen temperature is
+ action_querry out out loc intent_temp out
+
+ hello see us temperature of the bedroom
+ out action_querry out intent_temp out out loc
+
+ hey recover temperature in the bedroom is
+ out action_querry intent_temp out out loc out
+
+ would you please capture the kitchen temperature is
+ out out out action_querry out loc intent_temp out
+
+ capture the temperature in kitchen
+ action_querry out intent_temp out loc
+
+ heyy please would you recover the temperature of hall
+ out out out out action_querry out intent_temp out loc
+
+ please could you watch temperature of the bedroom is
+ out out out action_querry intent_temp out out loc out
+
+ grab us with the temperature of hall
+ action_querry out out out intent_temp out loc
+
+ would you detect me temperature in hall
+ out out action_querry out intent_temp out loc
+
+ sup capture us the temperature in kitchen
+ out action_querry out out intent_temp out loc
+
+ get us up the hall temperature
+ action_querry out out out loc intent_temp
+
+ examine me the temperature in the kitchen
+ action_querry out out intent_temp out out loc
+
+ hawai please would you watch us the bedroom temperature
+ out out out out action_querry out out loc intent_temp
+
+ heyy what us with the bedroom temperature
+ out action_querry out out out loc intent_temp
+
+ hawai please would you obtain me temperature of the bedroom is
+ out out out out action_querry out intent_temp out out loc out
+
+ please retrieve me temperature in the kitchen
+ out action_querry out intent_temp out out loc
+
+ hit temperature of the bedroom is
+ action_querry intent_temp out out loc out
+
+ howdy please can you grab the temperature of the kitchen
+ out out out out action_querry out intent_temp out out loc
+
+ pick me the temperature of the kitchen
+ action_querry out out intent_temp out out loc
+
+ please could you obtain us with temperature in the bedroom is
+ out out out action_querry out out intent_temp out out loc out
+
+ please could you hit us the bedroom temperature
+ out out out action_querry out out loc intent_temp
+
+ could you obtain us with temperature in hall
+ out out action_querry out out intent_temp out loc
+
+ heyy detect the temperature in kitchen
+ out action_querry out intent_temp out loc
+
+ could you please enquire us with the temperature of hall
+ out out out action_querry out out out intent_temp out loc
+
+ sup could you please view me with the temperature in the kitchen
+ out out out out action_querry out out out intent_temp out out loc
+
+ could you please try temperature in the kitchen
+ out out out action_querry intent_temp out out loc
+
+ hey find temperature of bedroom
+ out action_querry intent_temp out loc
+
+ hey see us with temperature in the bedroom is
+ out action_querry out out intent_temp out out loc out
+
+ can you recover temperature of the bedroom is
+ out out action_querry intent_temp out out loc out
+
+ catch us with temperature in hall
+ action_querry out out intent_temp out loc
+
+ could you suspect us temperature of bedroom
+ out out action_querry out intent_temp out loc
+
+ suspect the temperature of the kitchen
+ action_querry out intent_temp out out loc
+
+ please can you hit temperature of the bedroom is
+ out out out action_querry intent_temp out out loc out
+
+ would you please what us up temperature in the kitchen
+ out out out action_querry out out intent_temp out out loc
+
+ please could you retrieve temperature of the bedroom
+ out out out action_querry intent_temp out out loc
+
+ what us up temperature of the bedroom is
+ action_querry out out intent_temp out out loc out
+
+ please find temperature in hall
+ out action_querry intent_temp out loc
+
+ catch the hall temperature
+ action_querry out loc intent_temp
+
+ would you capture me the bedroom temperature is
+ out out action_querry out out loc intent_temp out
+
+ watch me the temperature in the kitchen
+ action_querry out out intent_temp out out loc
+
+ would you please catch us the temperature of hall
+ out out out action_querry out out intent_temp out loc
+
+ sup detect us temperature of bedroom
+ out action_querry out intent_temp out loc
+
+ hey would you please tally me temperature of the bedroom is
+ out out out out action_querry out intent_temp out out loc out
+
+ could you see us temperature of the bedroom
+ out out action_querry out intent_temp out out loc
+
+ hawai watch me temperature of the bedroom is
+ out action_querry out intent_temp out out loc out
+
+ hit me temperature in the kitchen
+ action_querry out intent_temp out out loc
+
+ would you please retrieve me temperature of the bedroom is
+ out out out action_querry out intent_temp out out loc out
+
+ what's examine us with temperature in hall
+ out action_querry out out intent_temp out loc
+
+ please can you view me up temperature of bedroom
+ out out out action_querry out out intent_temp out loc
+
+ what temperature in hall
+ action_querry intent_temp out loc
+
+ try temperature in the kitchen
+ action_querry intent_temp out out loc
+
+ determine the temperature of hall
+ action_querry out intent_temp out loc
+
+ howdy watch temperature of the bedroom is
+ out action_querry intent_temp out out loc out
+
+ hi recover us up temperature in the kitchen
+ out action_querry out out intent_temp out out loc
+
+ catch temperature of the bedroom
+ action_querry intent_temp out out loc
+
+ please discover us up the bedroom temperature is
+ out action_querry out out out loc intent_temp out
+
+ retrieve me temperature of the bedroom is
+ action_querry out intent_temp out out loc out
+
+ try us the bedroom temperature
+ action_querry out out loc intent_temp
+
+ study me temperature in hall
+ action_querry out intent_temp out loc
+
+ would you please investigate us temperature of the bedroom
+ out out out action_querry out intent_temp out out loc
+
+ sup would you please what us temperature in the bedroom is
+ out out out out action_querry out intent_temp out out loc out
+
+ can you find the temperature in the kitchen
+ out out action_querry out intent_temp out out loc
+
+ recieve the bedroom temperature
+ action_querry out loc intent_temp
+
+ capture the kitchen temperature is
+ action_querry out loc intent_temp out
+
+ sup retrieve the hall temperature
+ out action_querry out loc intent_temp
+
+ could you pick temperature of bedroom
+ out out action_querry intent_temp out loc
+
+ what us up temperature of the bedroom is
+ action_querry out out intent_temp out out loc out
+
+ try the temperature in the kitchen
+ action_querry out intent_temp out out loc
+
+ see us with temperature in the bedroom is
+ action_querry out out intent_temp out out loc out
+
+ heyy would you please study me temperature in hall
+ out out out out action_querry out intent_temp out loc
+
+ heyy enquire the temperature in kitchen
+ out action_querry out intent_temp out loc
+
+ detect the temperature in the kitchen
+ action_querry out intent_temp out out loc
+
+ catch us the temperature of hall
+ action_querry out out intent_temp out loc
+
+ determine us up the hall temperature
+ action_querry out out out loc intent_temp
+
+ could you what me temperature in the kitchen
+ out out action_querry out intent_temp out out loc
+
+ what me with the temperature in the kitchen
+ action_querry out out out intent_temp out out loc
+
+ get us temperature of the bedroom
+ action_querry out intent_temp out out loc
+
+ grab me the kitchen temperature is
+ action_querry out out loc intent_temp out
+
+ tally the temperature of hall
+ action_querry out intent_temp out loc
+
+ howdy please could you see the kitchen temperature is
+ out out out out action_querry out loc intent_temp out
+
+ could you please try temperature in hall
+ out out out action_querry intent_temp out loc
+
+ hello please pick us with the bedroom temperature
+ out out action_querry out out out loc intent_temp
+
+ detect us temperature of bedroom
+ action_querry out intent_temp out loc
+
+ what's could you please try temperature in the kitchen
+ out out out out action_querry intent_temp out out loc
+
+ examine us up the bedroom temperature is
+ action_querry out out out loc intent_temp out
+
+ see us up the temperature of the kitchen
+ action_querry out out out intent_temp out out loc
+
+ would you examine us up the temperature in kitchen
+ out out action_querry out out out intent_temp out loc
+
+ please would you analyse me the temperature of the kitchen
+ out out out action_querry out out intent_temp out out loc
+
+ hawai enquire the temperature in kitchen
+ out action_querry out intent_temp out loc
+
+ view us temperature of the bedroom
+ action_querry out intent_temp out out loc
+
+ please could you study us temperature of bedroom
+ out out out action_querry out intent_temp out loc
+
+ would you please view us temperature of the bedroom
+ out out out action_querry out intent_temp out out loc
+
+ what's grab me with temperature of the bedroom
+ out action_querry out out intent_temp out out loc
+
+ would you what us up temperature of the bedroom is
+ out out action_querry out out intent_temp out out loc out
+
+ could you analyse us the temperature of hall
+ out out action_querry out out intent_temp out loc
+
+ howdy analyse the bedroom temperature is
+ out action_querry out loc intent_temp out
+
+ watch us with the temperature of hall
+ action_querry out out out intent_temp out loc
+
+ see us up the bedroom temperature is
+ action_querry out out out loc intent_temp out
+
+ would you tally the temperature of the kitchen
+ out out action_querry out intent_temp out out loc
+
+ obtain temperature in the kitchen
+ action_querry intent_temp out out loc
+
+ hit me the temperature of the kitchen
+ action_querry out out intent_temp out out loc
+
+ would you please catch temperature of the bedroom is
+ out out out action_querry intent_temp out out loc out
+
+ heyy can you please get us temperature in the bedroom is
+ out out out out action_querry out intent_temp out out loc out
+
+ howdy hit the hall temperature
+ out action_querry out loc intent_temp
+
+ please can you investigate temperature of bedroom
+ out out out action_querry intent_temp out loc
+
+ could you pick me the temperature of the kitchen
+ out out action_querry out out intent_temp out out loc
+
+ find us up temperature in the kitchen
+ action_querry out out intent_temp out out loc
+
+ could you recieve the bedroom temperature
+ out out action_querry out loc intent_temp
+
+ get us up the temperature in kitchen
+ action_querry out out out intent_temp out loc
+
+ investigate temperature of bedroom
+ action_querry intent_temp out loc
+
+ could you detect the temperature in kitchen
+ out out action_querry out intent_temp out loc
+
+ enquire us with the temperature of hall
+ action_querry out out out intent_temp out loc
+
+ sup find us up the hall temperature
+ out action_querry out out out loc intent_temp
+
+ please could you what me with the temperature in the kitchen
+ out out out action_querry out out out intent_temp out out loc
+
+ could you please find us the temperature of hall
+ out out out action_querry out out intent_temp out loc
+
+ howdy what temperature in the kitchen
+ out action_querry intent_temp out out loc
+
+ what's catch us with temperature in hall
+ out action_querry out out intent_temp out loc
+
+ hawai get us with temperature in hall
+ out action_querry out out intent_temp out loc
+
+ would you recover me up temperature of bedroom
+ out out action_querry out out intent_temp out loc
+
+ would you please catch the hall temperature
+ out out out action_querry out loc intent_temp
+
+ could you please recieve us up the temperature of the kitchen
+ out out out action_querry out out out intent_temp out out loc
+
+ recieve me the hall temperature
+ action_querry out out loc intent_temp
+
+ hit me with temperature of the bedroom
+ action_querry out out intent_temp out out loc
+
+ suspect temperature in the bedroom is
+ action_querry intent_temp out out loc out
+
+ please watch me with the temperature in the kitchen
+ out action_querry out out out intent_temp out out loc
+
+ what us with the bedroom temperature
+ action_querry out out out loc intent_temp
+
+ retrieve the hall temperature
+ action_querry out loc intent_temp
+
+ could you please grab us with the bedroom temperature
+ out out out action_querry out out out loc intent_temp
+
+ would you what the temperature of hall
+ out out action_querry out intent_temp out loc
+
+ view the bedroom temperature is
+ action_querry out loc intent_temp out
+
+ examine us with temperature in hall
+ action_querry out out intent_temp out loc
+
+ hawai could you detect the temperature in the kitchen
+ out out out action_querry out intent_temp out out loc
+
+ sup try me with the temperature in the kitchen
+ out action_querry out out out intent_temp out out loc
+
+ detect me temperature in hall
+ action_querry out intent_temp out loc
+
+ hello see us up temperature of the bedroom is
+ out action_querry out out intent_temp out out loc out
+
+ sup suspect us temperature of bedroom
+ out action_querry out intent_temp out loc
+
+ hit the hall temperature
+ action_querry out loc intent_temp
+
+ could you please what temperature in the kitchen
+ out out out action_querry intent_temp out out loc
+
+ would you discover me the temperature of the kitchen
+ out out action_querry out out intent_temp out out loc
+
+ view me with the temperature in the kitchen
+ action_querry out out out intent_temp out out loc
+
+ sup try me with the temperature in the kitchen
+ out action_querry out out out intent_temp out out loc
+
+ please could you retrieve me temperature in the kitchen
+ out out out action_querry out intent_temp out out loc
+
+ hi please could you obtain us with temperature in the bedroom is
+ out out out out action_querry out out intent_temp out out loc out
+
+ sup could you catch the bedroom temperature is
+ out out out action_querry out loc intent_temp out
+
+ hit temperature in the bedroom is
+ action_querry intent_temp out out loc out
+
+ hey would you please view the temperature in the kitchen
+ out out out out action_querry out intent_temp out out loc
+
+ obtain us with temperature in the bedroom is
+ action_querry out out intent_temp out out loc out
+
+ howdy would you please recieve us the bedroom temperature
+ out out out out action_querry out out loc intent_temp
+
+ would you please study me temperature in hall
+ out out out action_querry out intent_temp out loc
+
+ please can you recover us up temperature in the kitchen
+ out out out action_querry out out intent_temp out out loc
+
+ hi examine the bedroom temperature
+ out action_querry out loc intent_temp
+
+ sup please would you discover temperature of the bedroom
+ out out out out action_querry intent_temp out out loc
+
+ hey would you watch me up temperature of bedroom
+ out out out action_querry out out intent_temp out loc
+
+ hawai please can you grab the temperature of the kitchen
+ out out out out action_querry out intent_temp out out loc
+
+ could you get us up the temperature in kitchen
+ out out action_querry out out out intent_temp out loc
+
+ get me the bedroom temperature is
+ action_querry out out loc intent_temp out
+
+ hello detect the temperature in kitchen
+ out action_querry out intent_temp out loc
+
+ obtain us with temperature in hall
+ action_querry out out intent_temp out loc
+
+ hey watch me the temperature in the kitchen
+ out action_querry out out intent_temp out out loc
+
+ retrieve me temperature in the kitchen
+ action_querry out intent_temp out out loc
+
+ suspect us with temperature in the bedroom is
+ action_querry out out intent_temp out out loc out
+
+ obtain me the bedroom temperature is
+ action_querry out out loc intent_temp out
+
+ capture me the bedroom temperature is
+ action_querry out out loc intent_temp out
+
+ howdy recieve me the temperature in the kitchen
+ out action_querry out out intent_temp out out loc
+
+ heyy could you capture the bedroom temperature
+ out out out action_querry out loc intent_temp
+
+ heyy analyse us the temperature of hall
+ out action_querry out out intent_temp out loc
+
+ please can you watch me with the kitchen temperature is
+ out out out action_querry out out out loc intent_temp out
+
+ investigate us up the temperature in kitchen
+ action_querry out out out intent_temp out loc
+
+ what's recover us up temperature in the kitchen
+ out action_querry out out intent_temp out out loc
+
+ would you what the bedroom temperature is
+ out out action_querry out loc intent_temp out
+
+ discover us up the bedroom temperature is
+ action_querry out out out loc intent_temp out
+
+ what temperature in the kitchen
+ action_querry intent_temp out out loc
+
+ howdy recieve us the bedroom temperature
+ out action_querry out out loc intent_temp
+
+ hello would you please retrieve the hall temperature
+ out out out out action_querry out loc intent_temp
+
+ could you please find me with the kitchen temperature is
+ out out out action_querry out out out loc intent_temp out
+
+ hawai please could you determine me with temperature of the bedroom
+ out out out out action_querry out out intent_temp out out loc
+
+ would you please what us temperature in the bedroom is
+ out out out action_querry out intent_temp out out loc out
+
+ can you recover us up the temperature of the kitchen
+ out out action_querry out out out intent_temp out out loc
+
+ heyy watch me the kitchen temperature is
+ out action_querry out out loc intent_temp out
+
+ analyse us the temperature of hall
+ action_querry out out intent_temp out loc
+
+ could you please recieve me the temperature in the kitchen
+ out out out action_querry out out intent_temp out out loc
+
+ recover the temperature of hall
+ action_querry out intent_temp out loc
+
+ would you obtain me the hall temperature
+ out out action_querry out out loc intent_temp
+
+ try the temperature of the kitchen
+ action_querry out intent_temp out out loc
+
+ discover us the temperature in kitchen
+ action_querry out out intent_temp out loc
+
+ hi would you please get us with temperature in hall
+ out out out out action_querry out out intent_temp out loc
+
+ tally me with the kitchen temperature is
+ action_querry out out out loc intent_temp out
+
+ hi tally the temperature of hall
+ out action_querry out intent_temp out loc
+
+ would you please find us up temperature in the kitchen
+ out out out action_querry out out intent_temp out out loc
+
+ what's please can you watch me with the kitchen temperature is
+ out out out out action_querry out out out loc intent_temp out
+
+ enquire me up temperature of bedroom
+ action_querry out out intent_temp out loc
+
+ what's would you obtain me the hall temperature
+ out out out action_querry out out loc intent_temp
+
+ detect the temperature in kitchen
+ action_querry out intent_temp out loc
+
+ enquire me the bedroom temperature is
+ action_querry out out loc intent_temp out
+
+ analyse the bedroom temperature is
+ action_querry out loc intent_temp out
+
+ what's please watch us with the temperature of hall
+ out out action_querry out out out intent_temp out loc
+
+ would you please catch temperature of the bedroom
+ out out out action_querry intent_temp out out loc
+
+ could you please examine us with temperature in hall
+ out out out action_querry out out intent_temp out loc
+
+ detect us with the bedroom temperature
+ action_querry out out out loc intent_temp
+
+ could you please watch me temperature of the bedroom is
+ out out out action_querry out intent_temp out out loc out
+

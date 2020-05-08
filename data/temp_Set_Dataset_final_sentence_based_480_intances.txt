@@ -1,0 +1,1440 @@
+ hawai please could you settle up 17 degree as the bedroom temperature
+ out out out out action_set out val out out out loc intent_temp
+
+ point temperature of kitchen as 24 degree
+ action_set intent_temp out loc out val out
+
+ fix temperature in the kitchen to 17 degrees
+ action_set intent_temp out out loc out val out
+
+ hii modify the temperature of bedroom as 28 degrees
+ out action_set out intent_temp out loc out val out
+
+ could you apply up the hall temperature as 32 degree
+ out out action_set out out loc intent_temp out val out
+
+ can you fixate up 17 degree as the bedroom temperature
+ out out action_set out val out out out loc intent_temp
+
+ can you organize the hall temperature as 10 degree
+ out out action_set out loc intent_temp out val out
+
+ please switch up 32 degree as temperature in bedroom
+ out action_set out val out out intent_temp out loc
+
+ howdy can you organize 32 degree as temperature in bedroom
+ out out out action_set val out out intent_temp out loc
+
+ adjust up the temperature in bedroom to 28 degrees
+ action_set out out intent_temp out loc out val out
+
+ howdy can you fixate up 17 degree as the bedroom temperature
+ out out out action_set out val out out out loc intent_temp
+
+ hi limit 17 degree as the bedroom temperature
+ out action_set val out out out loc intent_temp
+
+ would you please make 32 degree as the temperature in bedroom
+ out out out action_set val out out out intent_temp out loc
+
+ hi can you target the hall temperature as 32 degree
+ out out out action_set out loc intent_temp out val out
+
+ heyy alter 28 degree as the kitchen temperature
+ out action_set val out out out loc intent_temp
+
+ mark up the temperature of bedroom as 28 degrees
+ action_set out out intent_temp out loc out val out
+
+ heyy can you please fixate 21 degree as temperature in the kitchen
+ out out out out action_set val out out intent_temp out out loc
+
+ convert 21 degree as temperature of bedroom
+ action_set val out out intent_temp out loc
+
+ hey would you change up 17 degree as the temperature in the kitchen
+ out out out action_set out val out out out intent_temp out out loc
+
+ hi align up 28 degree as the kitchen temperature
+ out action_set out val out out out loc intent_temp
+
+ hello can you lock up temperature in the kitchen to 17 degrees
+ out out out action_set out intent_temp out out loc out val out
+
+ howdy can you align temperature of the kitchen as 24 degrees
+ out out out action_set intent_temp out out loc out val out
+
+ hawai would you order the temperature in bedroom to 28 degrees
+ out out out action_set out intent_temp out loc out val out
+
+ lock temperature of kitchen as 24 degree
+ action_set intent_temp out loc out val out
+
+ level the hall temperature as 10 degree
+ action_set out loc intent_temp out val out
+
+ hii change up 21 degree as temperature of bedroom
+ out action_set out val out out intent_temp out loc
+
+ please convert 24 degree as the temperature of the kitchen
+ out action_set val out out out intent_temp out out loc
+
+ convert 24 degree as the temperature of the kitchen
+ action_set val out out out intent_temp out out loc
+
+ finalise up temperature in bedroom as 10 degree
+ action_set out intent_temp out loc out val out
+
+ sup fixate up 32 degree as temperature of the kitchen
+ out action_set out val out out intent_temp out out loc
+
+ get 32 degree as temperature of the kitchen
+ action_set val out out intent_temp out out loc
+
+ make up temperature of the kitchen as 24 degrees
+ action_set out intent_temp out out loc out val out
+
+ heyy correct 32 degree as temperature of the kitchen
+ out action_set val out out intent_temp out out loc
+
+ lock up the temperature of the kitchen to 17 degrees
+ action_set out out intent_temp out out loc out val out
+
+ would you please get 32 degree as temperature of the kitchen
+ out out out action_set val out out intent_temp out out loc
+
+ lock up temperature in the kitchen to 17 degrees
+ action_set out intent_temp out out loc out val out
+
+ hii would you please settle temperature of the kitchen as 24 degrees
+ out out out out action_set intent_temp out out loc out val out
+
+ please can you correct 24 degree as the temperature of the kitchen
+ out out out action_set val out out out intent_temp out out loc
+
+ direct up 17 degree as the bedroom temperature
+ action_set out val out out out loc intent_temp
+
+ lock up 28 degree as the kitchen temperature
+ action_set out val out out out loc intent_temp
+
+ would you please direct 17 degree as the bedroom temperature
+ out out out action_set val out out out loc intent_temp
+
+ what's target 32 degree as temperature in bedroom
+ out action_set val out out intent_temp out loc
+
+ hawai aim up 17 degree as the temperature in the kitchen
+ out action_set out val out out out intent_temp out out loc
+
+ could you please limit 28 degree as the kitchen temperature
+ out out out action_set val out out out loc intent_temp
+
+ align up 28 degree as the kitchen temperature
+ action_set out val out out out loc intent_temp
+
+ what's point temperature of kitchen as 24 degree
+ out action_set intent_temp out loc out val out
+
+ hey put the hall temperature as 10 degree
+ out action_set out loc intent_temp out val out
+
+ settle up 17 degree as the bedroom temperature
+ action_set out val out out out loc intent_temp
+
+ would you please modify up the hall temperature as 32 degree
+ out out out action_set out out loc intent_temp out val out
+
+ finalize the temperature in the bedroom to 32 degrees
+ action_set out intent_temp out out loc out val out
+
+ would you limit up temperature in bedroom as 10 degree
+ out out action_set out intent_temp out loc out val out
+
+ direct the temperature in bedroom to 28 degrees
+ action_set out intent_temp out loc out val out
+
+ can you level the hall temperature as 10 degree
+ out out action_set out loc intent_temp out val out
+
+ align temperature of the kitchen as 24 degrees
+ action_set intent_temp out out loc out val out
+
+ can you mark the hall temperature as 32 degree
+ out out action_set out loc intent_temp out val out
+
+ limit 28 degree as the kitchen temperature
+ action_set val out out out loc intent_temp
+
+ hii convert the temperature of the kitchen to 17 degrees
+ out action_set out intent_temp out out loc out val out
+
+ order up 17 degree as the bedroom temperature
+ action_set out val out out out loc intent_temp
+
+ hello can you please modify 28 degree as the kitchen temperature
+ out out out out action_set val out out out loc intent_temp
+
+ hey finalise up 32 degree as temperature in bedroom
+ out action_set out val out out intent_temp out loc
+
+ align up 22 degree as the temperature of bedroom
+ action_set out val out out out intent_temp out loc
+
+ would you alter up 32 degree as temperature of the kitchen
+ out out action_set out val out out intent_temp out out loc
+
+ what's would you please put up temperature of the kitchen as 24 degrees
+ out out out out action_set out intent_temp out out loc out val out
+
+ point up the temperature of bedroom as 28 degrees
+ action_set out out intent_temp out loc out val out
+
+ can you please alter 28 degree as the kitchen temperature
+ out out out action_set val out out out loc intent_temp
+
+ howdy convert up temperature in the kitchen to 17 degrees
+ out action_set out intent_temp out out loc out val out
+
+ convert up temperature in the kitchen to 17 degrees
+ action_set out intent_temp out out loc out val out
+
+ hello direct up 32 degree as the temperature in bedroom
+ out action_set out val out out out intent_temp out loc
+
+ could you finalise up temperature in bedroom as 10 degree
+ out out action_set out intent_temp out loc out val out
+
+ can you commit 32 degree as temperature of the kitchen
+ out out action_set val out out intent_temp out out loc
+
+ please can you direct up 32 degree as the temperature in bedroom
+ out out out action_set out val out out out intent_temp out loc
+
+ lock up 32 degree as temperature of the kitchen
+ action_set out val out out intent_temp out out loc
+
+ please target up 32 degree as the temperature in bedroom
+ out action_set out val out out out intent_temp out loc
+
+ hawai please can you adjust the hall temperature as 32 degree
+ out out out out action_set out loc intent_temp out val out
+
+ fixate up 17 degree as the bedroom temperature
+ action_set out val out out out loc intent_temp
+
+ modify 28 degree as the kitchen temperature
+ action_set val out out out loc intent_temp
+
+ would you please modify the temperature of bedroom as 28 degrees
+ out out out action_set out intent_temp out loc out val out
+
+ would you please settle temperature of the kitchen as 24 degrees
+ out out out action_set intent_temp out out loc out val out
+
+ howdy could you commit up 28 degree as the kitchen temperature
+ out out out action_set out val out out out loc intent_temp
+
+ hii make 32 degree as the temperature in bedroom
+ out action_set val out out out intent_temp out loc
+
+ heyy correct 22 degree as the temperature of bedroom
+ out action_set val out out out intent_temp out loc
+
+ fixate the temperature of the kitchen to 17 degrees
+ action_set out intent_temp out out loc out val out
+
+ could you direct up 17 degree as the bedroom temperature
+ out out action_set out val out out out loc intent_temp
+
+ finalise temperature in the kitchen to 17 degrees
+ action_set intent_temp out out loc out val out
+
+ make 32 degree as the temperature in bedroom
+ action_set val out out out intent_temp out loc
+
+ convert up the hall temperature as 10 degree
+ action_set out out loc intent_temp out val out
+
+ fix up the temperature in the bedroom to 32 degrees
+ action_set out out intent_temp out out loc out val out
+
+ hii please direct up 21 degree as temperature in the kitchen
+ out out action_set out val out out intent_temp out out loc
+
+ please adjust up temperature of kitchen as 24 degree
+ out action_set out intent_temp out loc out val out
+
+ howdy please could you set the hall temperature as 10 degree
+ out out out out action_set out loc intent_temp out val out
+
+ sup would you convert 21 degree as temperature of bedroom
+ out out out action_set val out out intent_temp out loc
+
+ direct the temperature in the bedroom to 32 degrees
+ action_set out intent_temp out out loc out val out
+
+ hello change 21 degree as temperature of bedroom
+ out action_set val out out intent_temp out loc
+
+ limit up temperature in bedroom as 10 degree
+ action_set out intent_temp out loc out val out
+
+ howdy please can you change up 21 degree as temperature of bedroom
+ out out out out action_set out val out out intent_temp out loc
+
+ hello please can you aim up temperature of the kitchen as 24 degrees
+ out out out out action_set out intent_temp out out loc out val out
+
+ please adjust the temperature in the bedroom to 32 degrees
+ out action_set out intent_temp out out loc out val out
+
+ howdy would you alter up 32 degree as temperature of the kitchen
+ out out out action_set out val out out intent_temp out out loc
+
+ would you convert up the temperature of bedroom as 28 degrees
+ out out action_set out out intent_temp out loc out val out
+
+ please organize up 32 degree as temperature in bedroom
+ out action_set out val out out intent_temp out loc
+
+ could you convert 24 degree as the temperature of the kitchen
+ out out action_set val out out out intent_temp out out loc
+
+ hello would you please put 32 degree as the temperature in bedroom
+ out out out out action_set val out out out intent_temp out loc
+
+ commit 32 degree as temperature of the kitchen
+ action_set val out out intent_temp out out loc
+
+ howdy would you commit up 21 degree as temperature of bedroom
+ out out out action_set out val out out intent_temp out loc
+
+ hii please would you put the hall temperature as 10 degree
+ out out out out action_set out loc intent_temp out val out
+
+ would you order up 17 degree as the bedroom temperature
+ out out action_set out val out out out loc intent_temp
+
+ howdy put the temperature in bedroom to 28 degrees
+ out action_set out intent_temp out loc out val out
+
+ howdy can you level the hall temperature as 10 degree
+ out out out action_set out loc intent_temp out val out
+
+ hello please can you finalise up 32 degree as temperature in bedroom
+ out out out out action_set out val out out intent_temp out loc
+
+ order 32 degree as temperature in bedroom
+ action_set val out out intent_temp out loc
+
+ heyy can you please direct 24 degree as the temperature of the kitchen
+ out out out out action_set val out out out intent_temp out out loc
+
+ would you make 32 degree as temperature in bedroom
+ out out action_set val out out intent_temp out loc
+
+ please would you align up 22 degree as the temperature of bedroom
+ out out out action_set out val out out out intent_temp out loc
+
+ hey order 32 degree as temperature in bedroom
+ out action_set val out out intent_temp out loc
+
+ would you convert up the hall temperature as 10 degree
+ out out action_set out out loc intent_temp out val out
+
+ put up the temperature in the bedroom to 32 degrees
+ action_set out out intent_temp out out loc out val out
+
+ can you level up the temperature in bedroom to 28 degrees
+ out out action_set out out intent_temp out loc out val out
+
+ would you fix up the temperature in the bedroom to 32 degrees
+ out out action_set out out intent_temp out out loc out val out
+
+ hello mark up 24 degree as the temperature of the kitchen
+ out action_set out val out out out intent_temp out out loc
+
+ settle the temperature of the kitchen to 17 degrees
+ action_set out intent_temp out out loc out val out
+
+ would you please mark up 17 degree as the temperature in the kitchen
+ out out out action_set out val out out out intent_temp out out loc
+
+ please can you adjust the hall temperature as 32 degree
+ out out out action_set out loc intent_temp out val out
+
+ convert up 32 degree as temperature of the kitchen
+ action_set out val out out intent_temp out out loc
+
+ can you please correct 22 degree as the temperature of bedroom
+ out out out action_set val out out out intent_temp out loc
+
+ please can you aim up 17 degree as the temperature in the kitchen
+ out out out action_set out val out out out intent_temp out out loc
+
+ hey organize up 32 degree as temperature in bedroom
+ out action_set out val out out intent_temp out loc
+
+ hawai can you please correct 22 degree as the temperature of bedroom
+ out out out out action_set val out out out intent_temp out loc
+
+ can you please modify temperature in the kitchen to 17 degrees
+ out out out action_set intent_temp out out loc out val out
+
+ set the temperature of the kitchen to 17 degrees
+ action_set out intent_temp out out loc out val out
+
+ order 17 degree as the temperature in the kitchen
+ action_set val out out out intent_temp out out loc
+
+ hey implement up 17 degree as the temperature in the kitchen
+ out action_set out val out out out intent_temp out out loc
+
+ can you organize 32 degree as temperature in bedroom
+ out out action_set val out out intent_temp out loc
+
+ implement up the temperature in bedroom to 28 degrees
+ action_set out out intent_temp out loc out val out
+
+ please would you finalize the temperature in the bedroom to 32 degrees
+ out out out action_set out intent_temp out out loc out val out
+
+ sup could you please correct 22 degree as the temperature of bedroom
+ out out out out action_set val out out out intent_temp out loc
+
+ hi point temperature of kitchen as 24 degree
+ out action_set intent_temp out loc out val out
+
+ mark up the temperature of the kitchen to 17 degrees
+ action_set out out intent_temp out out loc out val out
+
+ please would you put the temperature in the bedroom to 32 degrees
+ out out out action_set out intent_temp out out loc out val out
+
+ sup adjust the temperature in the bedroom to 32 degrees
+ out action_set out intent_temp out out loc out val out
+
+ get up temperature of kitchen as 24 degree
+ action_set out intent_temp out loc out val out
+
+ howdy convert 21 degree as temperature of bedroom
+ out action_set val out out intent_temp out loc
+
+ make up the hall temperature as 32 degree
+ action_set out out loc intent_temp out val out
+
+ can you please lock up 32 degree as temperature of the kitchen
+ out out out action_set out val out out intent_temp out out loc
+
+ adjust the hall temperature as 32 degree
+ action_set out loc intent_temp out val out
+
+ would you please put up temperature of the kitchen as 24 degrees
+ out out out action_set out intent_temp out out loc out val out
+
+ please get up 21 degree as temperature in the kitchen
+ out action_set out val out out intent_temp out out loc
+
+ aim up temperature of the kitchen as 24 degrees
+ action_set out intent_temp out out loc out val out
+
+ finalize the temperature in bedroom to 28 degrees
+ action_set out intent_temp out loc out val out
+
+ hello could you direct up 32 degree as the temperature in bedroom
+ out out out action_set out val out out out intent_temp out loc
+
+ please could you lock temperature in bedroom as 10 degree
+ out out out action_set intent_temp out loc out val out
+
+ please can you order 32 degree as temperature in bedroom
+ out out out action_set val out out intent_temp out loc
+
+ could you get up temperature of kitchen as 24 degree
+ out out action_set out intent_temp out loc out val out
+
+ hii please could you align temperature of the kitchen as 24 degrees
+ out out out out action_set intent_temp out out loc out val out
+
+ howdy put temperature of kitchen as 24 degree
+ out action_set intent_temp out loc out val out
+
+ align temperature of the kitchen as 24 degrees
+ action_set intent_temp out out loc out val out
+
+ could you modify 32 degree as the temperature in bedroom
+ out out action_set val out out out intent_temp out loc
+
+ finalise up temperature in bedroom as 10 degree
+ action_set out intent_temp out loc out val out
+
+ target 32 degree as the temperature in bedroom
+ action_set val out out out intent_temp out loc
+
+ please could you align temperature of the kitchen as 24 degrees
+ out out out action_set intent_temp out out loc out val out
+
+ howdy please could you put up 22 degree as the temperature of bedroom
+ out out out out action_set out val out out out intent_temp out loc
+
+ can you put up 21 degree as temperature of bedroom
+ out out action_set out val out out intent_temp out loc
+
+ hii commit 32 degree as temperature of the kitchen
+ out action_set val out out intent_temp out out loc
+
+ hey finalize up the hall temperature as 32 degree
+ out action_set out out loc intent_temp out val out
+
+ would you please put 32 degree as the temperature in bedroom
+ out out out action_set val out out out intent_temp out loc
+
+ hawai would you please target 32 degree as temperature in bedroom
+ out out out out action_set val out out intent_temp out loc
+
+ what's would you please mark up 17 degree as the temperature in the kitchen
+ out out out out action_set out val out out out intent_temp out out loc
+
+ organize up 32 degree as temperature in bedroom
+ action_set out val out out intent_temp out loc
+
+ can you fixate the temperature of the kitchen to 17 degrees
+ out out action_set out intent_temp out out loc out val out
+
+ could you please put temperature of kitchen as 24 degree
+ out out out action_set intent_temp out loc out val out
+
+ finalize up the hall temperature as 10 degree
+ action_set out out loc intent_temp out val out
+
+ limit up the temperature of the kitchen to 17 degrees
+ action_set out out intent_temp out out loc out val out
+
+ howdy would you please make 32 degree as the temperature in bedroom
+ out out out out action_set val out out out intent_temp out loc
+
+ hi can you mark the hall temperature as 32 degree
+ out out out action_set out loc intent_temp out val out
+
+ hii can you please point temperature of kitchen as 24 degree
+ out out out out action_set intent_temp out loc out val out
+
+ switch the temperature of bedroom as 28 degrees
+ action_set out intent_temp out loc out val out
+
+ order the temperature in bedroom to 28 degrees
+ action_set out intent_temp out loc out val out
+
+ heyy please would you put the hall temperature as 10 degree
+ out out out out action_set out loc intent_temp out val out
+
+ please can you settle the temperature of the kitchen to 17 degrees
+ out out out action_set out intent_temp out out loc out val out
+
+ set the hall temperature as 10 degree
+ action_set out loc intent_temp out val out
+
+ modify 28 degree as the kitchen temperature
+ action_set val out out out loc intent_temp
+
+ would you please put up the temperature in the bedroom to 32 degrees
+ out out out action_set out out intent_temp out out loc out val out
+
+ hii adjust the temperature in the bedroom to 32 degrees
+ out action_set out intent_temp out out loc out val out
+
+ would you direct 21 degree as temperature in the kitchen
+ out out action_set val out out intent_temp out out loc
+
+ hii aim up 17 degree as the temperature in the kitchen
+ out action_set out val out out out intent_temp out out loc
+
+ please would you set up 22 degree as the temperature of bedroom
+ out out out action_set out val out out out intent_temp out loc
+
+ please could you put up 22 degree as the temperature of bedroom
+ out out out action_set out val out out out intent_temp out loc
+
+ would you please direct the temperature in the bedroom to 32 degrees
+ out out out action_set out intent_temp out out loc out val out
+
+ please level 22 degree as the temperature of bedroom
+ out action_set val out out out intent_temp out loc
+
+ howdy would you please direct 17 degree as the bedroom temperature
+ out out out out action_set val out out out loc intent_temp
+
+ can you please modify 28 degree as the kitchen temperature
+ out out out action_set val out out out loc intent_temp
+
+ hawai finalize up the hall temperature as 32 degree
+ out action_set out out loc intent_temp out val out
+
+ direct up temperature in the kitchen to 17 degrees
+ action_set out intent_temp out out loc out val out
+
+ could you please fix 17 degree as the bedroom temperature
+ out out out action_set val out out out loc intent_temp
+
+ hawai fix up the temperature in the bedroom to 32 degrees
+ out action_set out out intent_temp out out loc out val out
+
+ hey aim up the temperature in bedroom to 28 degrees
+ out action_set out out intent_temp out loc out val out
+
+ get up the hall temperature as 10 degree
+ action_set out out loc intent_temp out val out
+
+ order 21 degree as temperature in the kitchen
+ action_set val out out intent_temp out out loc
+
+ would you change up 17 degree as the temperature in the kitchen
+ out out action_set out val out out out intent_temp out out loc
+
+ finalise up 21 degree as temperature in the kitchen
+ action_set out val out out intent_temp out out loc
+
+ mark the hall temperature as 32 degree
+ action_set out loc intent_temp out val out
+
+ limit 17 degree as the bedroom temperature
+ action_set val out out out loc intent_temp
+
+ organize the hall temperature as 10 degree
+ action_set out loc intent_temp out val out
+
+ mark up 24 degree as the temperature of the kitchen
+ action_set out val out out out intent_temp out out loc
+
+ direct up 32 degree as the temperature in bedroom
+ action_set out val out out out intent_temp out loc
+
+ level up 24 degree as the temperature of the kitchen
+ action_set out val out out out intent_temp out out loc
+
+ heyy level 22 degree as the temperature of bedroom
+ out action_set val out out out intent_temp out loc
+
+ howdy correct 22 degree as the temperature of bedroom
+ out action_set val out out out intent_temp out loc
+
+ hii correct 22 degree as the temperature of bedroom
+ out action_set val out out out intent_temp out loc
+
+ please would you align up the temperature in the bedroom to 32 degrees
+ out out out action_set out out intent_temp out out loc out val out
+
+ would you commit up 21 degree as temperature of bedroom
+ out out action_set out val out out intent_temp out loc
+
+ please would you make up the hall temperature as 32 degree
+ out out out action_set out out loc intent_temp out val out
+
+ could you please limit 17 degree as the bedroom temperature
+ out out out action_set val out out out loc intent_temp
+
+ fixate up 32 degree as temperature of the kitchen
+ action_set out val out out intent_temp out out loc
+
+ direct the temperature of bedroom as 28 degrees
+ action_set out intent_temp out loc out val out
+
+ can you please direct 24 degree as the temperature of the kitchen
+ out out out action_set val out out out intent_temp out out loc
+
+ hi align temperature of the kitchen as 24 degrees
+ out action_set intent_temp out out loc out val out
+
+ please can you change up 21 degree as temperature of bedroom
+ out out out action_set out val out out intent_temp out loc
+
+ can you please organize 17 degree as the temperature in the kitchen
+ out out out action_set val out out out intent_temp out out loc
+
+ correct temperature in bedroom as 10 degree
+ action_set intent_temp out loc out val out
+
+ hello modify temperature in the kitchen to 17 degrees
+ out action_set intent_temp out out loc out val out
+
+ put up temperature in the kitchen to 17 degrees
+ action_set out intent_temp out out loc out val out
+
+ hi please convert 24 degree as the temperature of the kitchen
+ out out action_set val out out out intent_temp out out loc
+
+ hi please could you adjust up the temperature in bedroom to 28 degrees
+ out out out out action_set out out intent_temp out loc out val out
+
+ hii could you lock up 28 degree as the kitchen temperature
+ out out out action_set out val out out out loc intent_temp
+
+ can you convert up temperature of the kitchen as 24 degrees
+ out out action_set out intent_temp out out loc out val out
+
+ can you please adjust up 22 degree as the temperature of bedroom
+ out out out action_set out val out out out intent_temp out loc
+
+ settle temperature of the kitchen as 24 degrees
+ action_set intent_temp out out loc out val out
+
+ can you please implement up the temperature in bedroom to 28 degrees
+ out out out action_set out out intent_temp out loc out val out
+
+ hawai please finalise temperature in the kitchen to 17 degrees
+ out out action_set intent_temp out out loc out val out
+
+ please could you put up temperature in the kitchen to 17 degrees
+ out out out action_set out intent_temp out out loc out val out
+
+ direct up 21 degree as temperature in the kitchen
+ action_set out val out out intent_temp out out loc
+
+ can you please direct up temperature in the kitchen to 17 degrees
+ out out out action_set out intent_temp out out loc out val out
+
+ modify up temperature in bedroom as 10 degree
+ action_set out intent_temp out loc out val out
+
+ can you align temperature of the kitchen as 24 degrees
+ out out action_set intent_temp out out loc out val out
+
+ finalise up 32 degree as temperature in bedroom
+ action_set out val out out intent_temp out loc
+
+ switch 17 degree as the temperature in the kitchen
+ action_set val out out out intent_temp out out loc
+
+ can you please order 17 degree as the temperature in the kitchen
+ out out out action_set val out out out intent_temp out out loc
+
+ could you direct up 32 degree as the temperature in bedroom
+ out out action_set out val out out out intent_temp out loc
+
+ hii please finalize up the hall temperature as 10 degree
+ out out action_set out out loc intent_temp out val out
+
+ hi target the hall temperature as 32 degree
+ out action_set out loc intent_temp out val out
+
+ hey would you please put up the temperature in the bedroom to 32 degrees
+ out out out out action_set out out intent_temp out out loc out val out
+
+ fix 17 degree as the temperature in the kitchen
+ action_set val out out out intent_temp out out loc
+
+ please can you fixate up 32 degree as temperature of the kitchen
+ out out out action_set out val out out intent_temp out out loc
+
+ change up 17 degree as the temperature in the kitchen
+ action_set out val out out out intent_temp out out loc
+
+ would you put up the temperature in the bedroom to 32 degrees
+ out out action_set out out intent_temp out out loc out val out
+
+ please can you switch 17 degree as the temperature in the kitchen
+ out out out action_set val out out out intent_temp out out loc
+
+ hey can you please order 17 degree as the temperature in the kitchen
+ out out out out action_set val out out out intent_temp out out loc
+
+ please could you finalise up 21 degree as temperature in the kitchen
+ out out out action_set out val out out intent_temp out out loc
+
+ hi can you please order 17 degree as the temperature in the kitchen
+ out out out out action_set val out out out intent_temp out out loc
+
+ hello would you please make 32 degree as the temperature in bedroom
+ out out out out action_set val out out out intent_temp out loc
+
+ adjust the temperature in the bedroom to 32 degrees
+ action_set out intent_temp out out loc out val out
+
+ hey could you please get up the hall temperature as 10 degree
+ out out out out action_set out out loc intent_temp out val out
+
+ alter 28 degree as the kitchen temperature
+ action_set val out out out loc intent_temp
+
+ would you please target 32 degree as temperature in bedroom
+ out out out action_set val out out intent_temp out loc
+
+ hi please would you lock temperature of kitchen as 24 degree
+ out out out out action_set intent_temp out loc out val out
+
+ could you please order temperature in the kitchen to 17 degrees
+ out out out action_set intent_temp out out loc out val out
+
+ put up the temperature in the bedroom to 32 degrees
+ action_set out out intent_temp out out loc out val out
+
+ switch up 28 degree as the kitchen temperature
+ action_set out val out out out loc intent_temp
+
+ target up 32 degree as the temperature in bedroom
+ action_set out val out out out intent_temp out loc
+
+ correct 22 degree as the temperature of bedroom
+ action_set val out out out intent_temp out loc
+
+ please could you set the hall temperature as 10 degree
+ out out out action_set out loc intent_temp out val out
+
+ would you please put the temperature in bedroom to 28 degrees
+ out out out action_set out intent_temp out loc out val out
+
+ put up the temperature of the kitchen to 17 degrees
+ action_set out out intent_temp out out loc out val out
+
+ hii would you make 32 degree as temperature in bedroom
+ out out out action_set val out out intent_temp out loc
+
+ change 21 degree as temperature of bedroom
+ action_set val out out intent_temp out loc
+
+ hey can you organize 32 degree as temperature in bedroom
+ out out out action_set val out out intent_temp out loc
+
+ could you lock up 28 degree as the kitchen temperature
+ out out action_set out val out out out loc intent_temp
+
+ make 32 degree as temperature in bedroom
+ action_set val out out intent_temp out loc
+
+ sup get up the temperature of bedroom as 28 degrees
+ out action_set out out intent_temp out loc out val out
+
+ hey would you align up 28 degree as the kitchen temperature
+ out out out action_set out val out out out loc intent_temp
+
+ apply up the hall temperature as 32 degree
+ action_set out out loc intent_temp out val out
+
+ would you direct 21 degree as temperature of bedroom
+ out out action_set val out out intent_temp out loc
+
+ hawai order up 17 degree as the bedroom temperature
+ out action_set out val out out out loc intent_temp
+
+ please can you fix temperature in the kitchen to 17 degrees
+ out out out action_set intent_temp out out loc out val out
+
+ heyy settle up 17 degree as the bedroom temperature
+ out action_set out val out out out loc intent_temp
+
+ please can you mark up 24 degree as the temperature of the kitchen
+ out out out action_set out val out out out intent_temp out out loc
+
+ could you convert 21 degree as temperature in the kitchen
+ out out action_set val out out intent_temp out out loc
+
+ please would you implement up 17 degree as the temperature in the kitchen
+ out out out action_set out val out out out intent_temp out out loc
+
+ sup switch 17 degree as the temperature in the kitchen
+ out action_set val out out out intent_temp out out loc
+
+ finalize up 24 degree as the temperature of the kitchen
+ action_set out val out out out intent_temp out out loc
+
+ hawai would you please mark up 17 degree as the temperature in the kitchen
+ out out out out action_set out val out out out intent_temp out out loc
+
+ would you switch up 28 degree as the kitchen temperature
+ out out action_set out val out out out loc intent_temp
+
+ hawai would you please get 32 degree as temperature of the kitchen
+ out out out out action_set val out out intent_temp out out loc
+
+ hi would you direct 21 degree as temperature in the kitchen
+ out out out action_set val out out intent_temp out out loc
+
+ please could you change 21 degree as temperature of bedroom
+ out out out action_set val out out intent_temp out loc
+
+ direct up 32 degree as the temperature in bedroom
+ action_set out val out out out intent_temp out loc
+
+ could you please target 32 degree as the temperature in bedroom
+ out out out action_set val out out out intent_temp out loc
+
+ could you please put up the temperature of the kitchen to 17 degrees
+ out out out action_set out out intent_temp out out loc out val out
+
+ what's please would you lock temperature of kitchen as 24 degree
+ out out out out action_set intent_temp out loc out val out
+
+ modify temperature in the kitchen to 17 degrees
+ action_set intent_temp out out loc out val out
+
+ hello lock up the temperature of the kitchen to 17 degrees
+ out action_set out out intent_temp out out loc out val out
+
+ could you convert up temperature of kitchen as 24 degree
+ out out action_set out intent_temp out loc out val out
+
+ sup can you organize the hall temperature as 32 degree
+ out out out action_set out loc intent_temp out val out
+
+ get up the temperature of bedroom as 28 degrees
+ action_set out out intent_temp out loc out val out
+
+ would you please finalize the temperature in bedroom to 28 degrees
+ out out out action_set out intent_temp out loc out val out
+
+ modify the temperature of bedroom as 28 degrees
+ action_set out intent_temp out loc out val out
+
+ can you finalize up 24 degree as the temperature of the kitchen
+ out out action_set out val out out out intent_temp out out loc
+
+ can you please aim up the temperature in bedroom to 28 degrees
+ out out out action_set out out intent_temp out loc out val out
+
+ what's please would you get up the temperature of bedroom as 28 degrees
+ out out out out action_set out out intent_temp out loc out val out
+
+ lock temperature in bedroom as 10 degree
+ action_set intent_temp out loc out val out
+
+ hii please adjust up temperature of kitchen as 24 degree
+ out out action_set out intent_temp out loc out val out
+
+ would you order the temperature in bedroom to 28 degrees
+ out out action_set out intent_temp out loc out val out
+
+ adjust up 22 degree as the temperature of bedroom
+ action_set out val out out out intent_temp out loc
+
+ hawai change 21 degree as temperature of bedroom
+ out action_set val out out intent_temp out loc
+
+ howdy convert up the temperature of bedroom as 28 degrees
+ out action_set out out intent_temp out loc out val out
+
+ hii could you please get up the hall temperature as 10 degree
+ out out out out action_set out out loc intent_temp out val out
+
+ switch 32 degree as temperature of the kitchen
+ action_set val out out intent_temp out out loc
+
+ convert up temperature of kitchen as 24 degree
+ action_set out intent_temp out loc out val out
+
+ hawai can you organize the hall temperature as 32 degree
+ out out out action_set out loc intent_temp out val out
+
+ correct 22 degree as the temperature of bedroom
+ action_set val out out out intent_temp out loc
+
+ organize the hall temperature as 32 degree
+ action_set out loc intent_temp out val out
+
+ align temperature of the kitchen as 24 degrees
+ action_set intent_temp out out loc out val out
+
+ would you please fix 17 degree as the temperature in the kitchen
+ out out out action_set val out out out intent_temp out out loc
+
+ heyy align up 22 degree as the temperature of bedroom
+ out action_set out val out out out intent_temp out loc
+
+ hawai would you please switch the temperature of bedroom as 28 degrees
+ out out out out action_set out intent_temp out loc out val out
+
+ hey could you please order temperature in the kitchen to 17 degrees
+ out out out out action_set intent_temp out out loc out val out
+
+ correct 24 degree as the temperature of the kitchen
+ action_set val out out out intent_temp out out loc
+
+ modify 32 degree as the temperature in bedroom
+ action_set val out out out intent_temp out loc
+
+ please could you modify 28 degree as the kitchen temperature
+ out out out action_set val out out out loc intent_temp
+
+ switch the temperature of bedroom as 28 degrees
+ action_set out intent_temp out loc out val out
+
+ hii apply up the hall temperature as 32 degree
+ out action_set out out loc intent_temp out val out
+
+ what's fixate the temperature of the kitchen to 17 degrees
+ out action_set out intent_temp out out loc out val out
+
+ point up 24 degree as the temperature of the kitchen
+ action_set out val out out out intent_temp out out loc
+
+ can you finalise up temperature in bedroom as 10 degree
+ out out action_set out intent_temp out loc out val out
+
+ hey can you please correct 22 degree as the temperature of bedroom
+ out out out out action_set val out out out intent_temp out loc
+
+ please can you aim up temperature of the kitchen as 24 degrees
+ out out out action_set out intent_temp out out loc out val out
+
+ put the temperature in bedroom to 28 degrees
+ action_set out intent_temp out loc out val out
+
+ put up 21 degree as temperature of bedroom
+ action_set out val out out intent_temp out loc
+
+ would you convert up 32 degree as temperature of the kitchen
+ out out action_set out val out out intent_temp out out loc
+
+ would you convert 21 degree as temperature of bedroom
+ out out action_set val out out intent_temp out loc
+
+ would you please point up the temperature of bedroom as 28 degrees
+ out out out action_set out out intent_temp out loc out val out
+
+ convert 21 degree as temperature in the kitchen
+ action_set val out out intent_temp out out loc
+
+ please can you align temperature of the kitchen as 24 degrees
+ out out out action_set intent_temp out out loc out val out
+
+ put temperature of kitchen as 24 degree
+ action_set intent_temp out loc out val out
+
+ would you align up 28 degree as the kitchen temperature
+ out out action_set out val out out out loc intent_temp
+
+ get up 21 degree as temperature in the kitchen
+ action_set out val out out intent_temp out out loc
+
+ hello would you please switch the temperature of bedroom as 28 degrees
+ out out out out action_set out intent_temp out loc out val out
+
+ please finalize up the hall temperature as 10 degree
+ out action_set out out loc intent_temp out val out
+
+ please can you convert 21 degree as temperature of bedroom
+ out out out action_set val out out intent_temp out loc
+
+ would you please level up 24 degree as the temperature of the kitchen
+ out out out action_set out val out out out intent_temp out out loc
+
+ hello fix 17 degree as the temperature in the kitchen
+ out action_set val out out out intent_temp out out loc
+
+ heyy please could you settle up 17 degree as the bedroom temperature
+ out out out out action_set out val out out out loc intent_temp
+
+ please would you fix 17 degree as the bedroom temperature
+ out out out action_set val out out out loc intent_temp
+
+ hey please finalise temperature in the kitchen to 17 degrees
+ out out action_set intent_temp out out loc out val out
+
+ please can you convert the temperature of the kitchen to 17 degrees
+ out out out action_set out intent_temp out out loc out val out
+
+ sup could you commit up 28 degree as the kitchen temperature
+ out out out action_set out val out out out loc intent_temp
+
+ hey please finalise temperature in the kitchen to 17 degrees
+ out out action_set intent_temp out out loc out val out
+
+ howdy could you direct up 32 degree as the temperature in bedroom
+ out out out action_set out val out out out intent_temp out loc
+
+ howdy aim up 17 degree as the temperature in the kitchen
+ out action_set out val out out out intent_temp out out loc
+
+ direct up temperature of kitchen as 24 degree
+ action_set out intent_temp out loc out val out
+
+ commit up 21 degree as temperature of bedroom
+ action_set out val out out intent_temp out loc
+
+ please can you fix up the hall temperature as 10 degree
+ out out out action_set out out loc intent_temp out val out
+
+ howdy lock up temperature in the kitchen to 17 degrees
+ out action_set out intent_temp out out loc out val out
+
+ put temperature in bedroom as 10 degree
+ action_set intent_temp out loc out val out
+
+ sup modify 28 degree as the kitchen temperature
+ out action_set val out out out loc intent_temp
+
+ heyy fix 17 degree as the temperature in the kitchen
+ out action_set val out out out intent_temp out out loc
+
+ can you please correct 22 degree as the temperature of bedroom
+ out out out action_set val out out out intent_temp out loc
+
+ please would you alter up 21 degree as temperature of bedroom
+ out out out action_set out val out out intent_temp out loc
+
+ convert 24 degree as the temperature of the kitchen
+ action_set val out out out intent_temp out out loc
+
+ direct 17 degree as the bedroom temperature
+ action_set val out out out loc intent_temp
+
+ would you modify up temperature in bedroom as 10 degree
+ out out action_set out intent_temp out loc out val out
+
+ align up the temperature in the bedroom to 32 degrees
+ action_set out out intent_temp out out loc out val out
+
+ mark up 17 degree as the temperature in the kitchen
+ action_set out val out out out intent_temp out out loc
+
+ hii put up the temperature of the kitchen to 17 degrees
+ out action_set out out intent_temp out out loc out val out
+
+ please direct up 21 degree as temperature in the kitchen
+ out action_set out val out out intent_temp out out loc
+
+ hawai make 32 degree as the temperature in bedroom
+ out action_set val out out out intent_temp out loc
+
+ hi would you switch up 28 degree as the kitchen temperature
+ out out out action_set out val out out out loc intent_temp
+
+ what's please would you alter up 21 degree as temperature of bedroom
+ out out out out action_set out val out out intent_temp out loc
+
+ can you please direct up 32 degree as the temperature in bedroom
+ out out out action_set out val out out out intent_temp out loc
+
+ please can you finalize up the hall temperature as 32 degree
+ out out out action_set out out loc intent_temp out val out
+
+ can you lock up temperature in the kitchen to 17 degrees
+ out out action_set out intent_temp out out loc out val out
+
+ put up 22 degree as the temperature of bedroom
+ action_set out val out out out intent_temp out loc
+
+ level up the temperature in bedroom to 28 degrees
+ action_set out out intent_temp out loc out val out
+
+ please can you finalise up 32 degree as temperature in bedroom
+ out out out action_set out val out out intent_temp out loc
+
+ switch up 32 degree as temperature in bedroom
+ action_set out val out out intent_temp out loc
+
+ please would you put the hall temperature as 10 degree
+ out out out action_set out loc intent_temp out val out
+
+ hey would you please put 32 degree as the temperature in bedroom
+ out out out out action_set val out out out intent_temp out loc
+
+ correct 22 degree as the temperature of bedroom
+ action_set val out out out intent_temp out loc
+
+ could you please direct the temperature of bedroom as 28 degrees
+ out out out action_set out intent_temp out loc out val out
+
+ correct 32 degree as temperature of the kitchen
+ action_set val out out intent_temp out out loc
+
+ direct 24 degree as the temperature of the kitchen
+ action_set val out out out intent_temp out out loc
+
+ please set the temperature of the kitchen to 17 degrees
+ out action_set out intent_temp out out loc out val out
+
+ what's would you make 32 degree as temperature in bedroom
+ out out out action_set val out out intent_temp out loc
+
+ change up 21 degree as temperature of bedroom
+ action_set out val out out intent_temp out loc
+
+ heyy can you please lock up 32 degree as temperature of the kitchen
+ out out out out action_set out val out out intent_temp out out loc
+
+ organize 17 degree as the temperature in the kitchen
+ action_set val out out out intent_temp out out loc
+
+ howdy can you finalise temperature of kitchen as 24 degree
+ out out out action_set intent_temp out loc out val out
+
+ please would you order 21 degree as temperature in the kitchen
+ out out out action_set val out out intent_temp out out loc
+
+ heyy please can you mark up 24 degree as the temperature of the kitchen
+ out out out out action_set out val out out out intent_temp out out loc
+
+ aim up 17 degree as the temperature in the kitchen
+ action_set out val out out out intent_temp out out loc
+
+ sup would you please finalize the temperature in bedroom to 28 degrees
+ out out out out action_set out intent_temp out loc out val out
+
+ hawai aim up temperature of the kitchen as 24 degrees
+ out action_set out intent_temp out out loc out val out
+
+ hawai implement up 17 degree as the temperature in the kitchen
+ out action_set out val out out out intent_temp out out loc
+
+ hey align up 22 degree as the temperature of bedroom
+ out action_set out val out out out intent_temp out loc
+
+ could you commit up 28 degree as the kitchen temperature
+ out out action_set out val out out out loc intent_temp
+
+ please could you adjust up the temperature in bedroom to 28 degrees
+ out out out action_set out out intent_temp out loc out val out
+
+ put 32 degree as the temperature in bedroom
+ action_set val out out out intent_temp out loc
+
+ lock temperature in bedroom as 10 degree
+ action_set intent_temp out loc out val out
+
+ put the hall temperature as 10 degree
+ action_set out loc intent_temp out val out
+
+ hawai get up the temperature of bedroom as 28 degrees
+ out action_set out out intent_temp out loc out val out
+
+ direct 21 degree as temperature of bedroom
+ action_set val out out intent_temp out loc
+
+ alter up 21 degree as temperature of bedroom
+ action_set out val out out intent_temp out loc
+
+ can you organize the hall temperature as 32 degree
+ out out action_set out loc intent_temp out val out
+
+ please finalise temperature in the kitchen to 17 degrees
+ out action_set intent_temp out out loc out val out
+
+ commit up 28 degree as the kitchen temperature
+ action_set out val out out out loc intent_temp
+
+ hii can you fixate the temperature of the kitchen to 17 degrees
+ out out out action_set out intent_temp out out loc out val out
+
+ put the temperature in the bedroom to 32 degrees
+ action_set out intent_temp out out loc out val out
+
+ target 32 degree as temperature in bedroom
+ action_set val out out intent_temp out loc
+
+ sup settle up 17 degree as the bedroom temperature
+ out action_set out val out out out loc intent_temp
+
+ howdy correct 32 degree as temperature of the kitchen
+ out action_set val out out intent_temp out out loc
+
+ can you please fixate 21 degree as temperature in the kitchen
+ out out out action_set val out out intent_temp out out loc
+
+ could you direct the temperature in bedroom to 28 degrees
+ out out action_set out intent_temp out loc out val out
+
+ adjust up temperature of kitchen as 24 degree
+ action_set out intent_temp out loc out val out
+
+ convert the temperature of the kitchen to 17 degrees
+ action_set out intent_temp out out loc out val out
+
+ sup could you direct the temperature in bedroom to 28 degrees
+ out out out action_set out intent_temp out loc out val out
+
+ could you please correct 32 degree as temperature of the kitchen
+ out out out action_set val out out intent_temp out out loc
+
+ please would you lock up the temperature of the kitchen to 17 degrees
+ out out out action_set out out intent_temp out out loc out val out
+
+ would you correct temperature in bedroom as 10 degree
+ out out action_set intent_temp out loc out val out
+
+ put up temperature of the kitchen as 24 degrees
+ action_set out intent_temp out out loc out val out
+
+ please can you lock temperature in bedroom as 10 degree
+ out out out action_set intent_temp out loc out val out
+
+ hey please could you set the hall temperature as 10 degree
+ out out out out action_set out loc intent_temp out val out
+
+ order temperature in the kitchen to 17 degrees
+ action_set intent_temp out out loc out val out
+
+ could you put up 21 degree as temperature in the kitchen
+ out out action_set out val out out intent_temp out out loc
+
+ heyy commit up 28 degree as the kitchen temperature
+ out action_set out val out out out loc intent_temp
+
+ convert 21 degree as temperature of bedroom
+ action_set val out out intent_temp out loc
+
+ fix up the hall temperature as 10 degree
+ action_set out out loc intent_temp out val out
+
+ would you please switch the temperature of bedroom as 28 degrees
+ out out out action_set out intent_temp out loc out val out
+
+ what's lock up the temperature of the kitchen to 17 degrees
+ out action_set out out intent_temp out out loc out val out
+
+ what's can you please point temperature of kitchen as 24 degree
+ out out out out action_set intent_temp out loc out val out
+
+ could you please correct 22 degree as the temperature of bedroom
+ out out out action_set val out out out intent_temp out loc
+
+ organize up 32 degree as temperature in bedroom
+ action_set out val out out intent_temp out loc
+
+ hey would you order up 17 degree as the bedroom temperature
+ out out out action_set out val out out out loc intent_temp
+
+ fix 17 degree as the bedroom temperature
+ action_set val out out out loc intent_temp
+
+ convert up the temperature of bedroom as 28 degrees
+ action_set out out intent_temp out loc out val out
+
+ alter up 32 degree as temperature of the kitchen
+ action_set out val out out intent_temp out out loc
+
+ can you target the hall temperature as 32 degree
+ out out action_set out loc intent_temp out val out
+
+ please can you switch 32 degree as temperature of the kitchen
+ out out out action_set val out out intent_temp out out loc
+
+ please would you limit up the temperature of the kitchen to 17 degrees
+ out out out action_set out out intent_temp out out loc out val out
+
+ finalize up the hall temperature as 32 degree
+ action_set out out loc intent_temp out val out
+
+ heyy put 32 degree as the temperature in bedroom
+ out action_set val out out out intent_temp out loc
+
+ howdy please direct up 21 degree as temperature in the kitchen
+ out out action_set out val out out intent_temp out out loc
+
+ fixate 21 degree as temperature in the kitchen
+ action_set val out out intent_temp out out loc
+
+ hello could you please correct 22 degree as the temperature of bedroom
+ out out out out action_set val out out out intent_temp out loc
+
+ direct up 32 degree as the temperature in bedroom
+ action_set out val out out out intent_temp out loc
+
+ can you mark up the temperature of bedroom as 28 degrees
+ out out action_set out out intent_temp out loc out val out
+
+ hii modify 28 degree as the kitchen temperature
+ out action_set val out out out loc intent_temp
+
+ howdy set up 22 degree as the temperature of bedroom
+ out action_set out val out out out intent_temp out loc
+
+ organize 32 degree as temperature in bedroom
+ action_set val out out intent_temp out loc
+
+ would you please switch the temperature of bedroom as 28 degrees
+ out out out action_set out intent_temp out loc out val out
+
+ modify up the hall temperature as 32 degree
+ action_set out out loc intent_temp out val out
+
+ please would you get up the temperature of bedroom as 28 degrees
+ out out out action_set out out intent_temp out loc out val out
+
+ fix 17 degree as the bedroom temperature
+ action_set val out out out loc intent_temp
+
+ finalise temperature of kitchen as 24 degree
+ action_set intent_temp out loc out val out
+
+ target the hall temperature as 32 degree
+ action_set out loc intent_temp out val out
+
+ howdy direct 17 degree as the bedroom temperature
+ out action_set val out out out loc intent_temp
+
+ set up 22 degree as the temperature of bedroom
+ action_set out val out out out intent_temp out loc
+
+ hey could you convert up temperature of kitchen as 24 degree
+ out out out action_set out intent_temp out loc out val out
+
+ put up 21 degree as temperature in the kitchen
+ action_set out val out out intent_temp out out loc
+
+ aim up the temperature in bedroom to 28 degrees
+ action_set out out intent_temp out loc out val out
+
+ please can you put temperature in bedroom as 10 degree
+ out out out action_set intent_temp out loc out val out
+
+ hawai convert 21 degree as temperature of bedroom
+ out action_set val out out intent_temp out loc
+
+ can you finalise temperature of kitchen as 24 degree
+ out out action_set intent_temp out loc out val out
+
+ please convert up temperature in the kitchen to 17 degrees
+ out action_set out intent_temp out out loc out val out
+
+ please would you lock temperature of kitchen as 24 degree
+ out out out action_set intent_temp out loc out val out
+
+ direct 21 degree as temperature in the kitchen
+ action_set val out out intent_temp out out loc
+
+ would you please point up 24 degree as the temperature of the kitchen
+ out out out action_set out val out out out intent_temp out out loc
+
+ can you please point temperature of kitchen as 24 degree
+ out out out action_set intent_temp out loc out val out
+
+ implement up 17 degree as the temperature in the kitchen
+ action_set out val out out out intent_temp out out loc
+
+ would you direct up temperature of kitchen as 24 degree
+ out out action_set out intent_temp out loc out val out
+
+ convert up temperature of the kitchen as 24 degrees
+ action_set out intent_temp out out loc out val out
+
+ please can you mark up the temperature of the kitchen to 17 degrees
+ out out out action_set out out intent_temp out out loc out val out
+
+ please could you settle up 17 degree as the bedroom temperature
+ out out out action_set out val out out out loc intent_temp
+
+ please make up temperature of the kitchen as 24 degrees
+ out action_set out intent_temp out out loc out val out
+
+ hi could you finalise up temperature in bedroom as 10 degree
+ out out out action_set out intent_temp out loc out val out
+
+ hey target 32 degree as the temperature in bedroom
+ out action_set val out out out intent_temp out loc
+
+ could you please get up the hall temperature as 10 degree
+ out out out action_set out out loc intent_temp out val out
+
+ level 22 degree as the temperature of bedroom
+ action_set val out out out intent_temp out loc
+
+ hawai would you please point up 24 degree as the temperature of the kitchen
+ out out out out action_set out val out out out intent_temp out out loc
+
+ sup direct the temperature of bedroom as 28 degrees
+ out action_set out intent_temp out loc out val out
+
+ please organize up 32 degree as temperature in bedroom
+ out action_set out val out out intent_temp out loc
+
