@@ -447,10 +447,10 @@ tf.reset_default_graph()
 
 model = BiLSTMModel(20505, 21, 200, 200, token2idx['<PAD>'])
 
-batch_size = 32
-n_epochs = 4
+batch_size = 100
+n_epochs = 16
 learning_rate = 0.005
-learning_rate_decay = 1.414
+learning_rate_decay = 1.14
 dropout_keep_probability = 0.5
 
 """If you got an error *"Tensor conversion requested dtype float64 for Tensor with dtype float32"* in this point, check if there are variables without dtype initialised. Set the value of dtype equals to *tf.float32* for such variables.
